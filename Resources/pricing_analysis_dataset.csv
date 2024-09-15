@@ -1,0 +1,2001 @@
+Product,Category,Cost_per_Unit,Price_per_Unit,Units_Sold,Revenue,Profit
+Apples,Produce,0.83,3.54,175,619.5,474.25
+Eggs,Dairy,1.85,2.36,429,1012.44,218.79
+Tomato Soup,Canned Goods,1.12,3.11,65,202.15,129.35
+Bacon,Meat,4.92,8.79,63,553.77,243.81
+Tomato Soup,Canned Goods,1.54,4.25,329,1398.25,891.59
+Pasta,Grains,1.05,2.77,464,1285.28,798.08
+Milk,Dairy,3.4,5.35,266,1423.1,518.7
+Butter,Dairy,1.76,3.33,233,775.89,365.81
+Butter,Dairy,3.01,4.82,423,2038.86,765.63
+Rice,Grains,1.84,3.92,243,952.56,505.44
+Bacon,Meat,7.09,11.22,366,4106.52,1511.58
+Butter,Dairy,2.94,4.47,73,326.31,111.69
+Apples,Produce,1.18,1.87,90,168.3,62.1
+Eggs,Dairy,3.67,4.22,282,1190.04,155.1
+Butter,Dairy,1.91,3.24,393,1273.32,522.69
+Chicken Breast,Meat,8.06,10.13,86,871.18,178.02
+Cereal,Grains,2.09,2.6,175,455.0,89.25
+Corned Beef Hash,Canned Goods,2.51,4.44,377,1673.88,727.61
+Eggs,Dairy,3.21,4.95,447,2212.65,777.78
+Milk,Dairy,2.07,2.11,211,445.21,8.44
+Pasta,Grains,1.17,1.63,340,554.2,156.4
+Bananas,Produce,1.44,3.23,252,813.96,451.08
+Apples,Produce,1.88,3.56,176,626.56,295.68
+Tomato Soup,Canned Goods,1.77,3.92,348,1364.16,748.2
+Pasta,Grains,1.4,3.99,120,478.8,310.8
+Tomato Soup,Canned Goods,2.63,4.78,490,2342.2,1053.5
+Bacon,Meat,4.49,6.2,398,2467.6,680.58
+Pasta,Grains,1.99,2.15,355,763.25,56.8
+Rice,Grains,1.82,3.91,490,1915.9,1024.1
+Milk,Dairy,3.2,4.63,324,1500.12,463.32
+Apples,Produce,1.52,1.89,130,245.7,48.1
+Rice,Grains,0.51,3.17,418,1325.06,1111.88
+Chicken Breast,Meat,9.82,10.71,309,3309.39,275.01
+Bacon,Meat,9.16,12.15,377,4580.55,1127.23
+Tomato Soup,Canned Goods,4.2,5.65,300,1695.0,435.0
+Chicken Breast,Meat,5.06,6.81,340,2315.4,595.0
+Bacon,Meat,4.06,8.64,85,734.4,389.3
+Tomato Soup,Canned Goods,3.63,5.73,293,1678.89,615.3
+Corned Beef Hash,Canned Goods,1.78,5.36,266,1425.76,952.28
+Eggs,Dairy,3.82,4.64,403,1869.92,330.46
+Eggs,Dairy,3.28,3.4,393,1336.2,47.16
+Apples,Produce,1.62,4.13,281,1160.53,705.31
+Bacon,Meat,5.11,5.48,60,328.8,22.2
+Cereal,Grains,1.88,2.77,53,146.81,47.17
+Bacon,Meat,8.1,11.79,84,990.36,309.96
+Butter,Dairy,1.68,2.83,392,1109.36,450.8
+Rice,Grains,1.04,1.4,342,478.8,123.12
+Cereal,Grains,1.68,3.35,463,1551.05,773.21
+Pasta,Grains,0.98,1.29,270,348.3,83.7
+Butter,Dairy,2.56,3.63,423,1535.49,452.61
+Milk,Dairy,3.18,5.44,100,544.0,226.0
+Milk,Dairy,2.51,3.19,491,1566.29,333.88
+Bacon,Meat,5.12,6.43,279,1793.97,365.49
+Corned Beef Hash,Canned Goods,2.36,2.39,177,423.03,5.31
+Bacon,Meat,6.38,11.46,331,3793.26,1681.48
+Bacon,Meat,3.83,12.49,478,5970.22,4139.48
+Milk,Dairy,3.92,5.24,484,2536.16,638.88
+Eggs,Dairy,1.92,3.7,159,588.3,283.02
+Pasta,Grains,2.76,3.96,51,201.96,61.2
+Chicken Breast,Meat,9.52,10.89,196,2134.44,268.52
+Pasta,Grains,2.24,3.19,451,1438.69,428.45
+Tomato Soup,Canned Goods,3.25,3.43,147,504.21,26.46
+Chicken Breast,Meat,4.92,5.44,426,2317.44,221.52
+Tomato Soup,Canned Goods,1.03,2.57,75,192.75,115.5
+Cereal,Grains,1.69,3.76,321,1206.96,664.47
+Corned Beef Hash,Canned Goods,1.01,3.54,485,1716.9,1227.05
+Corned Beef Hash,Canned Goods,1.05,1.34,491,657.94,142.39
+Eggs,Dairy,2.51,5.3,341,1807.3,951.39
+Eggs,Dairy,2.95,3.47,91,315.77,47.32
+Cereal,Grains,1.91,1.95,183,356.85,7.32
+Eggs,Dairy,3.17,3.39,185,627.15,40.7
+Apples,Produce,2.44,2.49,434,1080.66,21.7
+Bacon,Meat,3.56,9.66,338,3265.08,2061.8
+Bacon,Meat,3.98,6.6,185,1221.0,484.7
+Corned Beef Hash,Canned Goods,4.25,5.4,500,2700.0,575.0
+Eggs,Dairy,2.42,2.55,476,1213.8,61.88
+Tomato Soup,Canned Goods,3.4,4.06,463,1879.78,305.58
+Apples,Produce,2.09,3.27,333,1088.91,392.94
+Chicken Breast,Meat,9.56,10.38,499,5179.62,409.18
+Eggs,Dairy,3.22,4.99,308,1536.92,545.16
+Rice,Grains,1.13,3.72,76,282.72,196.84
+Bacon,Meat,7.62,11.22,72,807.84,259.2
+Milk,Dairy,2.33,2.46,184,452.64,23.92
+Corned Beef Hash,Canned Goods,3.54,3.76,268,1007.68,58.96
+Tomato Soup,Canned Goods,0.84,1.38,403,556.14,217.62
+Corned Beef Hash,Canned Goods,2.82,5.17,348,1799.16,817.8
+Tomato Soup,Canned Goods,1.35,1.64,207,339.48,60.03
+Butter,Dairy,3.75,4.79,490,2347.1,509.6
+Milk,Dairy,3.75,4.33,177,766.41,102.66
+Butter,Dairy,3.45,5.09,258,1313.22,423.12
+Cereal,Grains,2.37,3.78,171,646.38,241.11
+Corned Beef Hash,Canned Goods,4.41,5.05,261,1318.05,167.04
+Milk,Dairy,1.95,5.24,450,2358.0,1480.5
+Pasta,Grains,2.51,3.59,465,1669.35,502.2
+Eggs,Dairy,2.17,4.76,105,499.8,271.95
+Pasta,Grains,2.68,3.58,163,583.54,146.7
+Eggs,Dairy,3.54,3.61,206,743.66,14.42
+Eggs,Dairy,2.06,4.31,254,1094.74,571.5
+Butter,Dairy,2.2,2.24,445,996.8,17.8
+Chicken Breast,Meat,5.78,8.82,397,3501.54,1206.88
+Tomato Soup,Canned Goods,2.03,5.85,499,2919.15,1906.18
+Corned Beef Hash,Canned Goods,2.95,5.92,69,408.48,204.93
+Bacon,Meat,7.38,7.59,452,3430.68,94.92
+Butter,Dairy,2.59,5.44,109,592.96,310.65
+Pasta,Grains,2.75,3.13,72,225.36,27.36
+Milk,Dairy,2.8,4.82,401,1932.82,810.02
+Bananas,Produce,3.32,3.53,150,529.5,31.5
+Butter,Dairy,2.58,5.32,219,1165.08,600.06
+Cereal,Grains,1.28,3.54,418,1479.72,944.68
+Chicken Breast,Meat,6.8,10.0,217,2170.0,694.4
+Pasta,Grains,2.24,2.66,148,393.68,62.16
+Pasta,Grains,2.16,3.71,433,1606.43,671.15
+Cereal,Grains,1.92,2.22,476,1056.72,142.8
+Milk,Dairy,2.26,2.74,452,1238.48,216.96
+Cereal,Grains,2.02,2.33,276,643.08,85.56
+Eggs,Dairy,2.78,4.78,457,2184.46,914.0
+Bananas,Produce,1.01,1.11,313,347.43,31.3
+Apples,Produce,2.4,4.32,469,2026.08,900.48
+Eggs,Dairy,3.18,5.44,151,821.44,341.26
+Cereal,Grains,2.62,3.66,262,958.92,272.48
+Cereal,Grains,0.99,3.09,303,936.27,636.3
+Pasta,Grains,1.11,2.97,52,154.44,96.72
+Bacon,Meat,8.56,12.18,461,5614.98,1668.82
+Tomato Soup,Canned Goods,2.52,3.79,484,1834.36,614.68
+Bacon,Meat,6.47,11.01,391,4304.91,1775.14
+Tomato Soup,Canned Goods,4.46,5.46,436,2380.56,436.0
+Cereal,Grains,2.54,3.68,268,986.24,305.52
+Tomato Soup,Canned Goods,2.45,3.37,491,1654.67,451.72
+Chicken Breast,Meat,8.39,11.3,191,2158.3,555.81
+Tomato Soup,Canned Goods,2.59,2.6,275,715.0,2.75
+Tomato Soup,Canned Goods,1.1,1.75,246,430.5,159.9
+Bananas,Produce,0.96,1.59,262,416.58,165.06
+Pasta,Grains,1.33,2.4,81,194.4,86.67
+Eggs,Dairy,3.58,4.04,444,1793.76,204.24
+Bananas,Produce,0.56,4.06,344,1396.64,1204.0
+Pasta,Grains,1.69,3.83,202,773.66,432.28
+Pasta,Grains,2.63,3.86,264,1019.04,324.72
+Tomato Soup,Canned Goods,3.57,3.73,358,1335.34,57.28
+Eggs,Dairy,2.72,2.96,298,882.08,71.52
+Milk,Dairy,2.47,4.34,458,1987.72,856.46
+Pasta,Grains,2.31,3.52,115,404.8,139.15
+Cereal,Grains,1.84,3.72,353,1313.16,663.64
+Cereal,Grains,2.16,2.39,269,642.91,61.87
+Milk,Dairy,2.15,3.15,282,888.3,282.0
+Butter,Dairy,2.34,5.08,192,975.36,526.08
+Pasta,Grains,1.13,1.25,59,73.75,7.08
+Bananas,Produce,2.12,4.5,229,1030.5,545.02
+Eggs,Dairy,3.13,4.73,383,1811.59,612.8
+Milk,Dairy,3.39,5.32,152,808.64,293.36
+Milk,Dairy,3.05,4.34,292,1267.28,376.68
+Cereal,Grains,2.87,3.3,181,597.3,77.83
+Corned Beef Hash,Canned Goods,3.04,5.82,417,2426.94,1159.26
+Bacon,Meat,8.56,10.08,209,2106.72,317.68
+Pasta,Grains,1.49,3.15,88,277.2,146.08
+Cereal,Grains,2.23,2.88,102,293.76,66.3
+Bananas,Produce,2.82,3.95,357,1410.15,403.41
+Bacon,Meat,8.68,9.24,71,656.04,39.76
+Butter,Dairy,2.83,4.32,85,367.2,126.65
+Tomato Soup,Canned Goods,3.2,5.11,265,1354.15,506.15
+Bacon,Meat,6.32,7.72,474,3659.28,663.6
+Rice,Grains,2.27,2.31,425,981.75,17.0
+Tomato Soup,Canned Goods,4.37,5.6,463,2592.8,569.49
+Rice,Grains,1.66,3.48,353,1228.44,642.46
+Chicken Breast,Meat,5.59,6.84,94,642.96,117.5
+Chicken Breast,Meat,9.23,9.27,287,2660.49,11.48
+Apples,Produce,1.64,2.0,485,970.0,174.6
+Rice,Grains,1.03,3.39,224,759.36,528.64
+Chicken Breast,Meat,9.22,10.26,191,1959.66,198.64
+Tomato Soup,Canned Goods,0.84,5.74,93,533.82,455.7
+Eggs,Dairy,3.3,3.71,438,1624.98,179.58
+Eggs,Dairy,3.23,4.26,301,1282.26,310.03
+Rice,Grains,2.48,2.99,163,487.37,83.13
+Butter,Dairy,2.68,3.86,267,1030.62,315.06
+Bananas,Produce,2.15,2.78,282,783.96,177.66
+Bananas,Produce,1.06,1.6,297,475.2,160.38
+Chicken Breast,Meat,8.21,12.32,318,3917.76,1306.98
+Cereal,Grains,1.21,1.3,149,193.7,13.41
+Chicken Breast,Meat,4.98,6.35,57,361.95,78.09
+Bananas,Produce,2.1,2.85,77,219.45,57.75
+Bananas,Produce,3.33,4.03,435,1753.05,304.5
+Cereal,Grains,1.21,2.44,224,546.56,275.52
+Corned Beef Hash,Canned Goods,4.37,5.11,491,2509.01,363.34
+Pasta,Grains,1.73,2.73,401,1094.73,401.0
+Milk,Dairy,1.88,4.84,205,992.2,606.8
+Bacon,Meat,9.96,10.82,441,4771.62,379.26
+Pasta,Grains,1.63,2.33,490,1141.7,343.0
+Cereal,Grains,2.98,3.88,367,1423.96,330.3
+Bacon,Meat,9.66,10.17,158,1606.86,80.58
+Rice,Grains,1.23,1.69,411,694.59,189.06
+Chicken Breast,Meat,8.07,8.41,401,3372.41,136.34
+Eggs,Dairy,3.81,4.76,370,1761.2,351.5
+Cereal,Grains,2.15,3.8,267,1014.6,440.55
+Bacon,Meat,7.04,9.86,186,1833.96,524.52
+Corned Beef Hash,Canned Goods,1.06,1.83,207,378.81,159.39
+Cereal,Grains,2.37,2.71,197,533.87,66.98
+Rice,Grains,0.81,3.07,408,1252.56,922.08
+Pasta,Grains,2.86,3.67,302,1108.34,244.62
+Bananas,Produce,1.47,1.73,96,166.08,24.96
+Eggs,Dairy,3.9,4.93,344,1695.92,354.32
+Cereal,Grains,2.88,4.0,394,1576.0,441.28
+Chicken Breast,Meat,7.25,10.72,139,1490.08,482.33
+Rice,Grains,1.8,2.33,192,447.36,101.76
+Corned Beef Hash,Canned Goods,4.49,5.29,466,2465.14,372.8
+Butter,Dairy,2.53,3.73,389,1450.97,466.8
+Pasta,Grains,2.53,2.65,282,747.3,33.84
+Bacon,Meat,5.54,7.42,445,3301.9,836.6
+Pasta,Grains,2.66,3.47,50,173.5,40.5
+Apples,Produce,3.11,3.6,77,277.2,37.73
+Apples,Produce,1.83,2.83,186,526.38,186.0
+Chicken Breast,Meat,6.35,10.24,112,1146.88,435.68
+Milk,Dairy,3.93,4.13,172,710.36,34.4
+Bananas,Produce,0.98,2.84,332,942.88,617.52
+Pasta,Grains,0.73,3.98,108,429.84,351.0
+Rice,Grains,2.87,2.94,128,376.32,8.96
+Rice,Grains,2.83,3.5,411,1438.5,275.37
+Rice,Grains,1.11,2.65,246,651.9,378.84
+Eggs,Dairy,3.8,4.7,500,2350.0,450.0
+Pasta,Grains,1.35,3.36,186,624.96,373.86
+Milk,Dairy,2.21,3.04,350,1064.0,290.5
+Cereal,Grains,3.0,3.29,126,414.54,36.54
+Pasta,Grains,1.64,1.97,146,287.62,48.18
+Bananas,Produce,1.22,2.22,488,1083.36,488.0
+Pasta,Grains,0.61,3.23,411,1327.53,1076.82
+Pasta,Grains,1.47,2.99,470,1405.3,714.4
+Apples,Produce,3.44,4.37,68,297.16,63.24
+Butter,Dairy,3.67,5.06,275,1391.5,382.25
+Bacon,Meat,6.92,8.43,419,3532.17,632.69
+Corned Beef Hash,Canned Goods,2.32,4.27,129,550.83,251.55
+Bacon,Meat,6.55,12.27,223,2736.21,1275.56
+Cereal,Grains,2.23,2.95,486,1433.7,349.92
+Butter,Dairy,3.63,5.01,244,1222.44,336.72
+Butter,Dairy,3.07,5.11,299,1527.89,609.96
+Tomato Soup,Canned Goods,0.93,1.34,373,499.82,152.93
+Apples,Produce,3.26,4.49,432,1939.68,531.36
+Bacon,Meat,6.32,10.28,374,3844.72,1481.04
+Bacon,Meat,6.38,10.21,64,653.44,245.12
+Milk,Dairy,2.31,3.31,233,771.23,233.0
+Corned Beef Hash,Canned Goods,1.7,3.06,399,1220.94,542.64
+Corned Beef Hash,Canned Goods,1.43,2.91,495,1440.45,732.6
+Apples,Produce,1.22,4.18,123,514.14,364.08
+Eggs,Dairy,2.65,2.89,180,520.2,43.2
+Apples,Produce,0.53,3.78,197,744.66,640.25
+Apples,Produce,2.14,4.45,226,1005.7,522.06
+Chicken Breast,Meat,7.65,8.18,178,1456.04,94.34
+Rice,Grains,2.61,3.56,246,875.76,233.7
+Bacon,Meat,5.04,9.29,344,3195.76,1462.0
+Chicken Breast,Meat,9.95,10.14,474,4806.36,90.06
+Bananas,Produce,3.42,4.17,431,1797.27,323.25
+Rice,Grains,2.58,3.71,447,1658.37,505.11
+Eggs,Dairy,3.02,3.23,375,1211.25,78.75
+Eggs,Dairy,3.05,4.37,419,1831.03,553.08
+Apples,Produce,2.54,4.14,99,409.86,158.4
+Apples,Produce,0.62,3.72,67,249.24,207.7
+Cereal,Grains,1.41,1.98,201,397.98,114.57
+Pasta,Grains,0.94,1.4,326,456.4,149.96
+Butter,Dairy,2.83,5.2,475,2470.0,1125.75
+Corned Beef Hash,Canned Goods,1.75,5.12,296,1515.52,997.52
+Chicken Breast,Meat,8.35,8.51,108,919.08,17.28
+Bacon,Meat,4.41,12.25,490,6002.5,3841.6
+Apples,Produce,2.67,4.43,483,2139.69,850.08
+Tomato Soup,Canned Goods,2.15,4.95,57,282.15,159.6
+Chicken Breast,Meat,6.99,8.41,394,3313.54,559.48
+Bananas,Produce,2.52,2.96,471,1394.16,207.24
+Apples,Produce,3.32,4.29,169,725.01,163.93
+Butter,Dairy,3.79,4.22,82,346.04,35.26
+Rice,Grains,2.77,3.99,259,1033.41,315.98
+Bacon,Meat,4.13,11.65,119,1386.35,894.88
+Pasta,Grains,1.63,3.01,430,1294.3,593.4
+Bananas,Produce,3.34,3.49,430,1500.7,64.5
+Pasta,Grains,2.14,3.5,365,1277.5,496.4
+Pasta,Grains,2.85,3.85,403,1551.55,403.0
+Butter,Dairy,1.75,4.4,328,1443.2,869.2
+Apples,Produce,1.58,2.27,147,333.69,101.43
+Bacon,Meat,9.67,11.18,96,1073.28,144.96
+Apples,Produce,1.14,3.17,60,190.2,121.8
+Milk,Dairy,3.47,4.75,114,541.5,145.92
+Eggs,Dairy,1.67,4.68,156,730.08,469.56
+Cereal,Grains,1.04,3.61,218,786.98,560.26
+Corned Beef Hash,Canned Goods,3.72,3.98,191,760.18,49.66
+Corned Beef Hash,Canned Goods,4.45,4.95,458,2267.1,229.0
+Eggs,Dairy,2.97,4.6,185,851.0,301.55
+Tomato Soup,Canned Goods,1.22,1.32,279,368.28,27.9
+Butter,Dairy,2.78,4.15,307,1274.05,420.59
+Bananas,Produce,2.85,4.01,316,1267.16,366.56
+Chicken Breast,Meat,6.48,12.23,81,990.63,465.75
+Rice,Grains,2.62,3.73,105,391.65,116.55
+Bacon,Meat,9.35,9.75,125,1218.75,50.0
+Tomato Soup,Canned Goods,3.43,3.65,355,1295.75,78.1
+Rice,Grains,1.76,2.29,456,1044.24,241.68
+Bananas,Produce,0.84,3.22,499,1606.78,1187.62
+Tomato Soup,Canned Goods,3.47,5.44,281,1528.64,553.57
+Pasta,Grains,1.35,2.36,262,618.32,264.62
+Bananas,Produce,0.79,2.38,390,928.2,620.1
+Chicken Breast,Meat,5.93,6.14,292,1792.88,61.32
+Bacon,Meat,4.09,5.64,271,1528.44,420.05
+Bacon,Meat,8.34,9.17,116,1063.72,96.28
+Cereal,Grains,2.89,3.0,393,1179.0,43.23
+Pasta,Grains,2.67,3.16,197,622.52,96.53
+Cereal,Grains,1.28,1.31,309,404.79,9.27
+Eggs,Dairy,1.89,3.69,483,1782.27,869.4
+Bacon,Meat,5.78,9.17,108,990.36,366.12
+Chicken Breast,Meat,7.23,11.05,482,5326.1,1841.24
+Tomato Soup,Canned Goods,4.41,5.09,364,1852.76,247.52
+Apples,Produce,2.43,3.87,386,1493.82,555.84
+Chicken Breast,Meat,3.69,7.05,440,3102.0,1478.4
+Chicken Breast,Meat,9.49,11.52,142,1635.84,288.26
+Cereal,Grains,2.14,2.9,429,1244.1,326.04
+Milk,Dairy,1.73,3.86,242,934.12,515.46
+Pasta,Grains,1.63,3.16,209,660.44,319.77
+Cereal,Grains,1.99,3.65,129,470.85,214.14
+Corned Beef Hash,Canned Goods,3.59,4.31,91,392.21,65.52
+Rice,Grains,2.02,2.24,160,358.4,35.2
+Tomato Soup,Canned Goods,1.22,3.15,195,614.25,376.35
+Apples,Produce,2.54,2.6,391,1016.6,23.46
+Chicken Breast,Meat,3.8,7.96,356,2833.76,1480.96
+Milk,Dairy,1.52,3.05,158,481.9,241.74
+Corned Beef Hash,Canned Goods,3.63,4.74,111,526.14,123.21
+Corned Beef Hash,Canned Goods,1.28,3.66,167,611.22,397.46
+Tomato Soup,Canned Goods,2.87,4.34,231,1002.54,339.57
+Bacon,Meat,6.08,10.57,273,2885.61,1225.77
+Milk,Dairy,2.65,4.02,210,844.2,287.7
+Cereal,Grains,1.51,2.92,198,578.16,279.18
+Bacon,Meat,6.13,12.25,137,1678.25,838.44
+Cereal,Grains,1.65,3.07,235,721.45,333.7
+Bacon,Meat,6.34,9.42,273,2571.66,840.84
+Tomato Soup,Canned Goods,1.09,5.35,431,2305.85,1836.06
+Butter,Dairy,2.05,4.73,89,420.97,238.52
+Tomato Soup,Canned Goods,3.14,3.65,149,543.85,75.99
+Butter,Dairy,2.38,5.35,380,2033.0,1128.6
+Corned Beef Hash,Canned Goods,1.67,1.73,151,261.23,9.06
+Corned Beef Hash,Canned Goods,3.03,4.8,385,1848.0,681.45
+Bacon,Meat,4.65,10.8,302,3261.6,1857.3
+Rice,Grains,2.39,3.28,279,915.12,248.31
+Apples,Produce,3.27,4.45,375,1668.75,442.5
+Butter,Dairy,3.66,4.2,127,533.4,68.58
+Rice,Grains,0.67,2.33,205,477.65,340.3
+Chicken Breast,Meat,7.34,7.64,87,664.68,26.1
+Chicken Breast,Meat,6.5,11.24,238,2675.12,1128.12
+Bacon,Meat,7.69,12.33,96,1183.68,445.44
+Cereal,Grains,1.99,2.15,347,746.05,55.52
+Tomato Soup,Canned Goods,4.33,4.69,71,332.99,25.56
+Rice,Grains,2.77,3.7,146,540.2,135.78
+Butter,Dairy,3.96,4.09,380,1554.2,49.4
+Apples,Produce,2.44,2.86,98,280.28,41.16
+Pasta,Grains,1.21,3.17,386,1223.62,756.56
+Cereal,Grains,2.68,2.99,348,1040.52,107.88
+Butter,Dairy,2.28,4.3,389,1672.7,785.78
+Pasta,Grains,0.82,3.13,93,291.09,214.83
+Chicken Breast,Meat,7.13,9.83,218,2142.94,588.6
+Corned Beef Hash,Canned Goods,3.28,5.14,428,2199.92,796.08
+Apples,Produce,3.24,4.31,393,1693.83,420.51
+Rice,Grains,0.98,4.0,129,516.0,389.58
+Bacon,Meat,5.42,10.91,309,3371.19,1696.41
+Tomato Soup,Canned Goods,3.89,5.42,69,373.98,105.57
+Apples,Produce,1.51,3.64,117,425.88,249.21
+Cereal,Grains,1.44,1.49,475,707.75,23.75
+Bananas,Produce,2.81,3.79,134,507.86,131.32
+Bananas,Produce,1.81,2.32,396,918.72,201.96
+Bananas,Produce,1.21,2.44,195,475.8,239.85
+Bananas,Produce,2.85,3.79,172,651.88,161.68
+Rice,Grains,2.76,3.84,397,1524.48,428.76
+Rice,Grains,1.65,1.85,245,453.25,49.0
+Tomato Soup,Canned Goods,2.75,5.83,468,2728.44,1441.44
+Eggs,Dairy,3.5,3.68,178,655.04,32.04
+Butter,Dairy,2.89,3.81,483,1840.23,444.36
+Bacon,Meat,5.35,10.72,189,2026.08,1014.93
+Rice,Grains,2.76,3.73,273,1018.29,264.81
+Rice,Grains,2.71,3.79,262,992.98,282.96
+Milk,Dairy,2.49,3.31,247,817.57,202.54
+Bacon,Meat,5.94,11.29,100,1129.0,535.0
+Apples,Produce,1.51,1.86,69,128.34,24.15
+Rice,Grains,2.24,2.41,411,990.51,69.87
+Cereal,Grains,0.51,1.24,181,224.44,132.13
+Eggs,Dairy,3.59,3.92,422,1654.24,139.26
+Cereal,Grains,1.82,2.92,197,575.24,216.7
+Cereal,Grains,1.64,2.79,305,850.95,350.75
+Milk,Dairy,3.08,4.01,417,1672.17,387.81
+Corned Beef Hash,Canned Goods,1.88,2.2,230,506.0,73.6
+Pasta,Grains,0.97,3.0,318,954.0,645.54
+Butter,Dairy,1.67,3.84,309,1186.56,670.53
+Tomato Soup,Canned Goods,2.85,2.95,290,855.5,29.0
+Milk,Dairy,3.09,5.43,179,971.97,418.86
+Bananas,Produce,0.55,3.72,226,840.72,716.42
+Eggs,Dairy,3.33,4.2,445,1869.0,387.15
+Cereal,Grains,2.34,2.93,72,210.96,42.48
+Apples,Produce,1.89,3.37,373,1257.01,552.04
+Corned Beef Hash,Canned Goods,3.8,5.72,447,2556.84,858.24
+Milk,Dairy,2.23,5.1,152,775.2,436.24
+Butter,Dairy,3.83,3.9,467,1821.3,32.69
+Chicken Breast,Meat,3.74,9.85,196,1930.6,1197.56
+Butter,Dairy,3.66,5.11,385,1967.35,558.25
+Bananas,Produce,1.82,4.34,223,967.82,561.96
+Corned Beef Hash,Canned Goods,2.64,3.49,458,1598.42,389.3
+Tomato Soup,Canned Goods,1.79,4.01,267,1070.67,592.74
+Corned Beef Hash,Canned Goods,2.82,3.23,90,290.7,36.9
+Bananas,Produce,1.78,3.35,229,767.15,359.53
+Rice,Grains,0.61,3.61,230,830.3,690.0
+Cereal,Grains,3.0,3.84,455,1747.2,382.2
+Bacon,Meat,7.86,8.05,312,2511.6,59.28
+Bananas,Produce,2.54,4.33,123,532.59,220.17
+Cereal,Grains,2.2,2.31,114,263.34,12.54
+Bacon,Meat,5.03,9.84,235,2312.4,1130.35
+Pasta,Grains,2.87,3.04,128,389.12,21.76
+Butter,Dairy,2.43,4.67,343,1601.81,768.32
+Corned Beef Hash,Canned Goods,2.76,2.99,382,1142.18,87.86
+Chicken Breast,Meat,5.12,5.85,426,2492.1,310.98
+Corned Beef Hash,Canned Goods,2.65,2.93,337,987.41,94.36
+Bacon,Meat,5.2,6.95,278,1932.1,486.5
+Eggs,Dairy,3.99,4.5,301,1354.5,153.51
+Bacon,Meat,8.77,12.26,213,2611.38,743.37
+Apples,Produce,1.54,1.87,327,611.49,107.91
+Chicken Breast,Meat,9.03,10.34,408,4218.72,534.48
+Apples,Produce,1.02,2.14,164,350.96,183.68
+Bacon,Meat,9.9,10.94,171,1870.74,177.84
+Rice,Grains,0.57,2.66,238,633.08,497.42
+Rice,Grains,2.51,2.65,363,961.95,50.82
+Bacon,Meat,3.93,7.99,417,3331.83,1693.02
+Bananas,Produce,1.94,2.32,259,600.88,98.42
+Cereal,Grains,0.68,3.92,378,1481.76,1224.72
+Bacon,Meat,6.42,10.1,226,2282.6,831.68
+Corned Beef Hash,Canned Goods,4.05,4.9,377,1847.3,320.45
+Cereal,Grains,0.95,3.9,271,1056.9,799.45
+Tomato Soup,Canned Goods,4.17,5.67,113,640.71,169.5
+Eggs,Dairy,2.37,5.29,195,1031.55,569.4
+Bacon,Meat,5.13,9.76,332,3240.32,1537.16
+Chicken Breast,Meat,4.31,7.27,323,2348.21,956.08
+Bacon,Meat,6.77,9.94,347,3449.18,1099.99
+Bananas,Produce,3.21,4.0,338,1352.0,267.02
+Bacon,Meat,3.8,9.81,345,3384.45,2073.45
+Chicken Breast,Meat,7.73,10.75,263,2827.25,794.26
+Cereal,Grains,2.1,2.49,371,923.79,144.69
+Tomato Soup,Canned Goods,1.87,5.78,297,1716.66,1161.27
+Eggs,Dairy,3.51,4.4,202,888.8,179.78
+Rice,Grains,0.68,1.18,275,324.5,137.5
+Pasta,Grains,1.71,3.58,360,1288.8,673.2
+Butter,Dairy,3.34,5.01,254,1272.54,424.18
+Corned Beef Hash,Canned Goods,3.61,4.08,104,424.32,48.88
+Eggs,Dairy,3.91,5.16,466,2404.56,582.5
+Butter,Dairy,3.83,4.52,147,664.44,101.43
+Corned Beef Hash,Canned Goods,2.64,3.57,305,1088.85,283.65
+Chicken Breast,Meat,6.73,8.79,251,2206.29,517.06
+Eggs,Dairy,2.04,3.24,75,243.0,90.0
+Chicken Breast,Meat,6.72,11.62,384,4462.08,1881.6
+Apples,Produce,1.91,2.79,483,1347.57,425.04
+Bacon,Meat,6.3,11.62,422,4903.64,2245.04
+Butter,Dairy,3.41,3.97,255,1012.35,142.8
+Butter,Dairy,2.88,3.58,308,1102.64,215.6
+Tomato Soup,Canned Goods,1.83,5.95,398,2368.1,1639.76
+Cereal,Grains,0.8,3.93,251,986.43,785.63
+Butter,Dairy,3.49,4.64,237,1099.68,272.55
+Eggs,Dairy,3.01,3.4,70,238.0,27.3
+Milk,Dairy,1.6,4.5,461,2074.5,1336.9
+Rice,Grains,1.8,3.79,313,1186.27,622.87
+Butter,Dairy,1.91,5.47,428,2341.16,1523.68
+Chicken Breast,Meat,7.36,8.8,310,2728.0,446.4
+Tomato Soup,Canned Goods,2.61,3.81,293,1116.33,351.6
+Milk,Dairy,2.42,4.36,263,1146.68,510.22
+Cereal,Grains,1.27,3.7,496,1835.2,1205.28
+Bananas,Produce,2.39,3.01,185,556.85,114.7
+Apples,Produce,2.85,3.67,345,1266.15,282.9
+Eggs,Dairy,3.3,4.04,137,553.48,101.38
+Tomato Soup,Canned Goods,3.13,4.1,480,1968.0,465.6
+Pasta,Grains,0.87,3.04,66,200.64,143.22
+Cereal,Grains,2.87,3.55,59,209.45,40.12
+Bananas,Produce,0.69,1.31,156,204.36,96.72
+Tomato Soup,Canned Goods,2.0,4.31,319,1374.89,736.89
+Pasta,Grains,1.28,1.52,322,489.44,77.28
+Butter,Dairy,2.87,4.37,494,2158.78,741.0
+Bananas,Produce,2.54,3.77,185,697.45,227.55
+Cereal,Grains,1.71,3.87,192,743.04,414.72
+Tomato Soup,Canned Goods,1.9,5.71,202,1153.42,769.62
+Chicken Breast,Meat,8.08,10.18,300,3054.0,630.0
+Butter,Dairy,2.7,3.96,457,1809.72,575.82
+Bananas,Produce,1.32,2.81,396,1112.76,590.04
+Pasta,Grains,2.55,3.86,461,1779.46,603.91
+Corned Beef Hash,Canned Goods,1.87,2.44,415,1012.6,236.55
+Bacon,Meat,5.75,8.32,181,1505.92,465.17
+Bananas,Produce,1.94,2.88,325,936.0,305.5
+Chicken Breast,Meat,4.39,9.62,350,3367.0,1830.5
+Eggs,Dairy,2.11,4.34,321,1393.14,715.83
+Eggs,Dairy,3.09,3.16,261,824.76,18.27
+Rice,Grains,0.75,3.31,52,172.12,133.12
+Tomato Soup,Canned Goods,4.42,5.68,384,2181.12,483.84
+Rice,Grains,1.69,1.96,197,386.12,53.19
+Apples,Produce,0.68,3.64,383,1394.12,1133.68
+Cereal,Grains,1.08,3.22,485,1561.7,1037.9
+Milk,Dairy,3.78,5.22,478,2495.16,688.32
+Pasta,Grains,2.47,3.89,433,1684.37,614.86
+Chicken Breast,Meat,9.2,9.52,340,3236.8,108.8
+Butter,Dairy,2.21,5.46,328,1790.88,1066.0
+Tomato Soup,Canned Goods,2.63,5.69,485,2759.65,1484.1
+Tomato Soup,Canned Goods,2.53,2.65,107,283.55,12.84
+Bananas,Produce,1.88,2.05,145,297.25,24.65
+Chicken Breast,Meat,7.19,10.68,139,1484.52,485.11
+Cereal,Grains,2.64,3.69,473,1745.37,496.65
+Pasta,Grains,1.79,3.95,392,1548.4,846.72
+Rice,Grains,1.31,1.74,183,318.42,78.69
+Pasta,Grains,1.09,3.26,218,710.68,473.06
+Chicken Breast,Meat,7.29,9.3,183,1701.9,367.83
+Apples,Produce,1.58,1.67,391,652.97,35.19
+Bacon,Meat,6.53,8.77,401,3516.77,898.24
+Bananas,Produce,2.81,3.35,377,1262.95,203.58
+Chicken Breast,Meat,5.89,6.66,118,785.88,90.86
+Rice,Grains,0.88,3.24,360,1166.4,849.6
+Butter,Dairy,2.54,3.92,291,1140.72,401.58
+Tomato Soup,Canned Goods,3.77,5.13,440,2257.2,598.4
+Eggs,Dairy,3.2,4.09,453,1852.77,403.17
+Bacon,Meat,6.92,8.96,235,2105.6,479.4
+Bacon,Meat,9.46,11.07,474,5247.18,763.14
+Rice,Grains,0.83,2.25,338,760.5,479.96
+Milk,Dairy,2.9,4.35,207,900.45,300.15
+Bananas,Produce,0.57,1.74,51,88.74,59.67
+Bananas,Produce,1.15,2.07,266,550.62,244.72
+Bacon,Meat,7.02,12.4,85,1054.0,457.3
+Rice,Grains,0.58,2.23,443,987.89,730.95
+Corned Beef Hash,Canned Goods,3.63,5.89,380,2238.2,858.8
+Pasta,Grains,1.44,3.67,279,1023.93,622.17
+Pasta,Grains,1.44,3.05,388,1183.4,624.68
+Tomato Soup,Canned Goods,1.29,5.3,110,583.0,441.1
+Corned Beef Hash,Canned Goods,4.47,4.64,115,533.6,19.55
+Eggs,Dairy,3.59,4.65,202,939.3,214.12
+Rice,Grains,2.18,2.63,322,846.86,144.9
+Pasta,Grains,2.56,3.63,227,824.01,242.89
+Bacon,Meat,3.71,9.95,364,3621.8,2271.36
+Milk,Dairy,2.1,2.24,354,792.96,49.56
+Milk,Dairy,2.62,4.35,496,2157.6,858.08
+Milk,Dairy,2.11,2.15,274,589.1,10.96
+Eggs,Dairy,2.85,4.64,447,2074.08,800.13
+Milk,Dairy,1.85,5.48,169,926.12,613.47
+Bananas,Produce,2.23,2.94,445,1308.3,315.95
+Apples,Produce,2.96,3.24,498,1613.52,139.44
+Eggs,Dairy,2.53,2.96,335,991.6,144.05
+Cereal,Grains,2.7,3.73,370,1380.1,381.1
+Apples,Produce,1.78,2.63,226,594.38,192.1
+Apples,Produce,2.51,3.71,213,790.23,255.6
+Bananas,Produce,1.75,2.79,242,675.18,251.68
+Eggs,Dairy,3.62,3.85,412,1586.2,94.76
+Pasta,Grains,1.11,1.61,381,613.41,190.5
+Bacon,Meat,9.49,11.35,97,1100.95,180.42
+Tomato Soup,Canned Goods,3.48,4.02,187,751.74,100.98
+Milk,Dairy,3.68,4.06,439,1782.34,166.82
+Apples,Produce,2.18,2.57,495,1272.15,193.05
+Butter,Dairy,2.26,5.18,158,818.44,461.36
+Eggs,Dairy,3.91,4.12,436,1796.32,91.56
+Eggs,Dairy,2.49,2.84,214,607.76,74.9
+Chicken Breast,Meat,5.97,9.0,233,2097.0,705.99
+Chicken Breast,Meat,5.2,8.85,304,2690.4,1109.6
+Rice,Grains,0.75,3.94,290,1142.6,925.1
+Butter,Dairy,3.79,5.02,261,1310.22,321.03
+Bananas,Produce,0.94,1.76,349,614.24,286.18
+Cereal,Grains,2.3,3.5,150,525.0,180.0
+Rice,Grains,1.88,3.83,222,850.26,432.9
+Chicken Breast,Meat,8.46,8.66,420,3637.2,84.0
+Apples,Produce,2.72,3.74,425,1589.5,433.5
+Corned Beef Hash,Canned Goods,1.32,3.73,144,537.12,347.04
+Tomato Soup,Canned Goods,4.46,5.79,318,1841.22,422.94
+Milk,Dairy,3.6,4.34,468,2031.12,346.32
+Milk,Dairy,2.53,4.95,168,831.6,406.56
+Bacon,Meat,8.1,8.42,308,2593.36,98.56
+Milk,Dairy,3.04,4.33,365,1580.45,470.85
+Rice,Grains,2.15,2.65,322,853.3,161.0
+Milk,Dairy,1.54,4.53,324,1467.72,968.76
+Chicken Breast,Meat,3.61,11.1,395,4384.5,2958.55
+Pasta,Grains,2.52,3.73,104,387.92,125.84
+Bacon,Meat,6.91,8.95,367,3284.65,748.68
+Butter,Dairy,2.17,3.39,241,816.99,294.02
+Pasta,Grains,1.65,1.73,406,702.38,32.48
+Eggs,Dairy,2.25,4.9,91,445.9,241.15
+Apples,Produce,3.48,3.7,66,244.2,14.52
+Cereal,Grains,2.94,3.92,320,1254.4,313.6
+Milk,Dairy,2.07,5.15,404,2080.6,1244.32
+Cereal,Grains,1.69,3.05,88,268.4,119.68
+Chicken Breast,Meat,9.35,11.38,66,751.08,133.98
+Milk,Dairy,3.9,4.05,435,1761.75,65.25
+Bananas,Produce,2.96,4.24,203,860.72,259.84
+Corned Beef Hash,Canned Goods,2.89,3.83,484,1853.72,454.96
+Pasta,Grains,2.19,2.62,246,644.52,105.78
+Bananas,Produce,0.92,4.46,420,1873.2,1486.8
+Bacon,Meat,6.76,12.31,77,947.87,427.35
+Bacon,Meat,6.34,11.29,224,2528.96,1108.8
+Cereal,Grains,2.42,3.86,253,976.58,364.32
+Butter,Dairy,1.57,2.96,280,828.8,389.2
+Rice,Grains,1.07,2.66,242,643.72,384.78
+Pasta,Grains,0.96,2.76,244,673.44,439.2
+Bacon,Meat,8.52,10.35,176,1821.6,322.08
+Bacon,Meat,5.24,7.85,451,3540.35,1177.11
+Apples,Produce,0.96,2.24,234,524.16,299.52
+Bacon,Meat,4.09,12.07,277,3343.39,2210.46
+Butter,Dairy,3.4,3.57,94,335.58,15.98
+Tomato Soup,Canned Goods,2.7,2.77,95,263.15,6.65
+Bacon,Meat,7.38,10.88,492,5352.96,1722.0
+Pasta,Grains,0.53,2.24,448,1003.52,766.08
+Bacon,Meat,8.21,9.2,174,1600.8,172.26
+Cereal,Grains,1.8,3.06,136,416.16,171.36
+Corned Beef Hash,Canned Goods,1.8,2.34,124,290.16,66.96
+Bacon,Meat,4.59,7.07,203,1435.21,503.44
+Rice,Grains,2.46,3.16,176,556.16,123.2
+Rice,Grains,1.98,2.19,104,227.76,21.84
+Cereal,Grains,1.45,3.59,275,987.25,588.5
+Butter,Dairy,2.58,4.88,383,1869.04,880.9
+Cereal,Grains,0.84,1.96,405,793.8,453.6
+Eggs,Dairy,2.7,5.39,253,1363.67,680.57
+Chicken Breast,Meat,8.28,9.75,344,3354.0,505.68
+Eggs,Dairy,2.31,2.98,452,1346.96,302.84
+Pasta,Grains,1.41,3.8,152,577.6,363.28
+Cereal,Grains,2.99,3.86,443,1709.98,385.41
+Rice,Grains,2.86,3.08,458,1410.64,100.76
+Pasta,Grains,2.18,2.98,205,610.9,164.0
+Bananas,Produce,1.77,2.19,279,611.01,117.18
+Cereal,Grains,1.7,2.2,309,679.8,154.5
+Bananas,Produce,1.75,3.4,234,795.6,386.1
+Tomato Soup,Canned Goods,3.0,5.57,105,584.85,269.85
+Eggs,Dairy,3.14,3.24,381,1234.44,38.1
+Cereal,Grains,0.61,3.95,396,1564.2,1322.64
+Apples,Produce,1.7,3.58,457,1636.06,859.16
+Pasta,Grains,0.76,1.3,163,211.9,88.02
+Tomato Soup,Canned Goods,3.56,3.79,402,1523.58,92.46
+Cereal,Grains,1.05,2.12,287,608.44,307.09
+Apples,Produce,2.27,2.65,226,598.9,85.88
+Milk,Dairy,2.71,3.03,93,281.79,29.76
+Bacon,Meat,8.9,10.48,228,2389.44,360.24
+Chicken Breast,Meat,5.73,10.88,316,3438.08,1627.4
+Rice,Grains,1.37,3.09,419,1294.71,720.68
+Butter,Dairy,1.67,2.16,413,892.08,202.37
+Bacon,Meat,3.65,7.57,105,794.85,411.6
+Apples,Produce,2.9,4.24,429,1818.96,574.86
+Eggs,Dairy,2.79,3.93,219,860.67,249.66
+Tomato Soup,Canned Goods,2.38,3.31,458,1515.98,425.94
+Pasta,Grains,2.07,2.3,386,887.8,88.78
+Milk,Dairy,3.34,5.09,280,1425.2,490.0
+Cereal,Grains,1.57,1.62,159,257.58,7.95
+Bananas,Produce,2.93,3.76,102,383.52,84.66
+Tomato Soup,Canned Goods,1.49,2.63,284,746.92,323.76
+Bacon,Meat,5.21,11.47,320,3670.4,2003.2
+Apples,Produce,1.44,2.24,250,560.0,200.0
+Cereal,Grains,0.79,2.06,284,585.04,360.68
+Cereal,Grains,0.93,3.02,459,1386.18,959.31
+Chicken Breast,Meat,9.47,10.2,394,4018.8,287.62
+Tomato Soup,Canned Goods,2.24,3.98,344,1369.12,598.56
+Pasta,Grains,1.56,2.46,325,799.5,292.5
+Bananas,Produce,3.26,4.24,138,585.12,135.24
+Tomato Soup,Canned Goods,1.42,2.44,145,353.8,147.9
+Butter,Dairy,3.6,4.17,493,2055.81,281.01
+Butter,Dairy,3.88,4.85,149,722.65,144.53
+Tomato Soup,Canned Goods,2.67,3.47,400,1388.0,320.0
+Rice,Grains,1.54,3.52,300,1056.0,594.0
+Corned Beef Hash,Canned Goods,1.11,1.15,439,504.85,17.56
+Eggs,Dairy,2.23,2.96,325,962.0,237.25
+Chicken Breast,Meat,4.59,8.43,430,3624.9,1651.2
+Rice,Grains,1.87,2.63,108,284.04,82.08
+Butter,Dairy,2.86,4.65,439,2041.35,785.81
+Bananas,Produce,1.82,3.87,267,1033.29,547.35
+Eggs,Dairy,2.24,5.5,280,1540.0,912.8
+Chicken Breast,Meat,5.77,11.13,274,3049.62,1468.64
+Bacon,Meat,8.54,10.53,465,4896.45,925.35
+Bananas,Produce,1.55,3.43,373,1279.39,701.24
+Pasta,Grains,0.91,1.42,155,220.1,79.05
+Eggs,Dairy,3.51,4.0,322,1288.0,157.78
+Chicken Breast,Meat,7.38,9.3,410,3813.0,787.2
+Tomato Soup,Canned Goods,4.45,4.75,98,465.5,29.4
+Pasta,Grains,2.8,3.98,493,1962.14,581.74
+Apples,Produce,0.88,4.0,177,708.0,552.24
+Corned Beef Hash,Canned Goods,3.43,5.14,439,2256.46,750.69
+Apples,Produce,1.68,1.79,373,667.67,41.03
+Pasta,Grains,1.44,3.64,456,1659.84,1003.2
+Bacon,Meat,6.12,10.62,405,4301.1,1822.5
+Butter,Dairy,2.64,3.71,347,1287.37,371.29
+Milk,Dairy,3.67,4.97,97,482.09,126.1
+Bananas,Produce,3.42,3.86,407,1571.02,179.08
+Butter,Dairy,2.87,3.7,486,1798.2,403.38
+Butter,Dairy,3.74,4.67,73,340.91,67.89
+Bacon,Meat,7.57,11.28,58,654.24,215.18
+Bacon,Meat,9.54,12.19,283,3449.77,749.95
+Eggs,Dairy,3.99,5.18,382,1978.76,454.58
+Chicken Breast,Meat,4.53,12.0,190,2280.0,1419.3
+Bacon,Meat,7.75,9.98,240,2395.2,535.2
+Apples,Produce,1.0,2.27,206,467.62,261.62
+Bananas,Produce,2.6,3.0,385,1155.0,154.0
+Tomato Soup,Canned Goods,3.32,5.3,406,2151.8,803.88
+Bananas,Produce,0.9,1.06,246,260.76,39.36
+Bacon,Meat,8.25,11.1,210,2331.0,598.5
+Corned Beef Hash,Canned Goods,3.17,4.39,85,373.15,103.7
+Tomato Soup,Canned Goods,2.88,4.05,134,542.7,156.78
+Rice,Grains,1.38,1.64,433,710.12,112.58
+Corned Beef Hash,Canned Goods,4.2,5.3,276,1462.8,303.6
+Bacon,Meat,9.33,9.42,113,1064.46,10.17
+Pasta,Grains,1.38,2.29,455,1041.95,414.05
+Corned Beef Hash,Canned Goods,1.72,4.22,177,746.94,442.5
+Tomato Soup,Canned Goods,3.02,4.61,195,898.95,310.05
+Bananas,Produce,0.58,3.93,498,1957.14,1668.3
+Chicken Breast,Meat,4.84,9.55,146,1394.3,687.66
+Bananas,Produce,1.68,3.19,451,1438.69,681.01
+Eggs,Dairy,2.74,4.23,305,1290.15,454.45
+Bacon,Meat,6.93,12.33,234,2885.22,1263.6
+Butter,Dairy,1.83,5.01,341,1708.41,1084.38
+Pasta,Grains,1.41,3.05,440,1342.0,721.6
+Rice,Grains,2.89,3.31,58,191.98,24.36
+Cereal,Grains,0.67,1.79,70,125.3,78.4
+Milk,Dairy,3.87,4.2,196,823.2,64.68
+Tomato Soup,Canned Goods,3.64,3.68,255,938.4,10.2
+Cereal,Grains,0.88,1.25,90,112.5,33.3
+Tomato Soup,Canned Goods,4.21,5.87,129,757.23,214.14
+Tomato Soup,Canned Goods,2.01,3.93,440,1729.2,844.8
+Apples,Produce,2.54,4.33,407,1762.31,728.53
+Eggs,Dairy,1.64,2.3,272,625.6,179.52
+Bacon,Meat,6.45,9.57,208,1990.56,648.96
+Apples,Produce,2.73,3.54,111,392.94,89.91
+Milk,Dairy,3.27,4.46,133,593.18,158.27
+Rice,Grains,2.88,3.47,450,1561.5,265.5
+Chicken Breast,Meat,4.59,5.95,449,2671.55,610.64
+Chicken Breast,Meat,8.26,8.93,65,580.45,43.55
+Chicken Breast,Meat,8.13,9.32,89,829.48,105.91
+Rice,Grains,1.64,2.08,305,634.4,134.2
+Cereal,Grains,0.92,1.47,445,654.15,244.75
+Bacon,Meat,9.31,10.06,109,1096.54,81.75
+Eggs,Dairy,3.35,5.02,489,2454.78,816.63
+Eggs,Dairy,1.61,3.27,126,412.02,209.16
+Corned Beef Hash,Canned Goods,4.25,5.29,333,1761.57,346.32
+Bananas,Produce,2.72,4.19,214,896.66,314.58
+Butter,Dairy,2.18,2.27,240,544.8,21.6
+Bacon,Meat,6.76,11.76,141,1658.16,705.0
+Eggs,Dairy,3.51,5.43,255,1384.65,489.6
+Bacon,Meat,9.2,11.5,446,5129.0,1025.8
+Chicken Breast,Meat,5.63,9.15,54,494.1,190.08
+Butter,Dairy,2.0,3.97,205,813.85,403.85
+Bananas,Produce,2.37,2.52,352,887.04,52.8
+Rice,Grains,2.99,3.33,425,1415.25,144.5
+Tomato Soup,Canned Goods,3.61,5.66,53,299.98,108.65
+Milk,Dairy,2.08,3.21,479,1537.59,541.27
+Bananas,Produce,3.13,4.32,50,216.0,59.5
+Apples,Produce,1.63,3.53,207,730.71,393.3
+Bacon,Meat,4.83,12.37,264,3265.68,1990.56
+Rice,Grains,2.9,3.92,122,478.24,124.44
+Bananas,Produce,1.34,4.12,168,692.16,467.04
+Tomato Soup,Canned Goods,2.33,5.48,284,1556.32,894.6
+Bananas,Produce,0.75,1.15,118,135.7,47.2
+Apples,Produce,2.96,3.25,340,1105.0,98.6
+Corned Beef Hash,Canned Goods,1.68,2.3,211,485.3,130.82
+Pasta,Grains,2.25,3.21,212,680.52,203.52
+Rice,Grains,1.18,1.22,153,186.66,6.12
+Corned Beef Hash,Canned Goods,3.69,3.92,129,505.68,29.67
+Bacon,Meat,4.57,8.5,258,2193.0,1013.94
+Bacon,Meat,6.98,12.23,156,1907.88,819.0
+Rice,Grains,1.27,1.8,111,199.8,58.83
+Bacon,Meat,4.52,10.15,473,4800.95,2662.99
+Bananas,Produce,2.59,3.97,477,1893.69,658.26
+Corned Beef Hash,Canned Goods,1.14,2.24,232,519.68,255.2
+Pasta,Grains,1.78,3.03,183,554.49,228.75
+Corned Beef Hash,Canned Goods,0.92,3.02,281,848.62,590.1
+Tomato Soup,Canned Goods,3.57,4.97,286,1421.42,400.4
+Bacon,Meat,3.58,11.23,163,1830.49,1246.95
+Corned Beef Hash,Canned Goods,1.53,3.0,401,1203.0,589.47
+Apples,Produce,3.31,3.81,350,1333.5,175.0
+Milk,Dairy,3.99,5.17,380,1964.6,448.4
+Butter,Dairy,1.81,5.3,75,397.5,261.75
+Corned Beef Hash,Canned Goods,4.22,4.42,420,1856.4,84.0
+Corned Beef Hash,Canned Goods,2.11,5.54,190,1052.6,651.7
+Chicken Breast,Meat,6.4,9.64,364,3508.96,1179.36
+Eggs,Dairy,3.12,3.75,331,1241.25,208.53
+Rice,Grains,0.65,1.84,120,220.8,142.8
+Pasta,Grains,1.0,3.65,319,1164.35,845.35
+Eggs,Dairy,3.08,4.81,456,2193.36,788.88
+Milk,Dairy,3.97,4.74,233,1104.42,179.41
+Rice,Grains,1.86,2.45,339,830.55,200.01
+Tomato Soup,Canned Goods,1.99,2.35,63,148.05,22.68
+Butter,Dairy,2.99,4.72,465,2194.8,804.45
+Milk,Dairy,3.52,3.65,233,850.45,30.29
+Cereal,Grains,3.0,3.92,101,395.92,92.92
+Eggs,Dairy,3.14,4.77,467,2227.59,761.21
+Bananas,Produce,0.67,4.49,162,727.38,618.84
+Cereal,Grains,2.62,3.39,231,783.09,177.87
+Corned Beef Hash,Canned Goods,1.45,3.96,462,1829.52,1159.62
+Bananas,Produce,2.59,4.18,64,267.52,101.76
+Bananas,Produce,2.6,4.31,338,1456.78,577.98
+Corned Beef Hash,Canned Goods,2.88,5.41,464,2510.24,1173.92
+Rice,Grains,1.86,2.58,69,178.02,49.68
+Milk,Dairy,2.33,4.15,462,1917.3,840.84
+Corned Beef Hash,Canned Goods,2.06,5.22,460,2401.2,1453.6
+Butter,Dairy,1.65,2.52,410,1033.2,356.7
+Corned Beef Hash,Canned Goods,3.67,5.23,490,2562.7,764.4
+Butter,Dairy,3.9,5.32,389,2069.48,552.38
+Apples,Produce,3.38,3.42,139,475.38,5.56
+Tomato Soup,Canned Goods,3.37,5.64,452,2549.28,1026.04
+Butter,Dairy,2.06,4.06,139,564.34,278.0
+Pasta,Grains,1.27,3.07,115,353.05,207.0
+Corned Beef Hash,Canned Goods,3.5,5.74,343,1968.82,768.32
+Pasta,Grains,2.63,3.31,340,1125.4,231.2
+Milk,Dairy,1.96,3.11,464,1443.04,533.6
+Cereal,Grains,1.05,2.7,304,820.8,501.6
+Corned Beef Hash,Canned Goods,2.03,5.91,227,1341.57,880.76
+Corned Beef Hash,Canned Goods,3.15,5.82,470,2735.4,1254.9
+Bananas,Produce,2.51,3.5,221,773.5,218.79
+Rice,Grains,0.53,1.63,404,658.52,444.4
+Bacon,Meat,5.78,10.9,418,4556.2,2140.16
+Milk,Dairy,1.62,3.53,264,931.92,504.24
+Corned Beef Hash,Canned Goods,4.07,5.14,243,1249.02,260.01
+Cereal,Grains,2.13,3.06,133,406.98,123.69
+Rice,Grains,0.68,3.54,200,708.0,572.0
+Milk,Dairy,2.3,5.33,87,463.71,263.61
+Butter,Dairy,1.93,3.31,424,1403.44,585.12
+Bacon,Meat,7.06,11.74,97,1138.78,453.96
+Butter,Dairy,2.99,4.15,297,1232.55,344.52
+Bananas,Produce,0.59,4.29,134,574.86,495.8
+Cereal,Grains,2.72,3.92,101,395.92,121.2
+Pasta,Grains,2.24,3.17,423,1340.91,393.39
+Tomato Soup,Canned Goods,1.78,2.41,171,412.11,107.73
+Bacon,Meat,3.82,9.29,480,4459.2,2625.6
+Rice,Grains,0.88,2.08,268,557.44,321.6
+Bacon,Meat,5.41,9.97,357,3559.29,1627.92
+Rice,Grains,1.0,1.08,137,147.96,10.96
+Apples,Produce,1.38,3.7,482,1783.4,1118.24
+Rice,Grains,1.72,2.98,96,286.08,120.96
+Apples,Produce,2.13,2.17,245,531.65,9.8
+Rice,Grains,0.61,2.32,184,426.88,314.64
+Eggs,Dairy,3.59,3.97,127,504.19,48.26
+Bananas,Produce,2.5,3.79,226,856.54,291.54
+Pasta,Grains,2.93,3.9,333,1298.7,323.01
+Apples,Produce,3.1,4.14,170,703.8,176.8
+Bananas,Produce,0.6,2.91,314,913.74,725.34
+Cereal,Grains,2.19,2.86,111,317.46,74.37
+Rice,Grains,0.93,3.95,158,624.1,477.16
+Eggs,Dairy,1.82,3.48,399,1388.52,662.34
+Pasta,Grains,1.0,3.47,125,433.75,308.75
+Cereal,Grains,1.14,3.73,463,1726.99,1199.17
+Bacon,Meat,4.07,9.17,332,3044.44,1693.2
+Butter,Dairy,3.64,3.82,497,1898.54,89.46
+Milk,Dairy,3.47,4.18,317,1325.06,225.07
+Pasta,Grains,0.78,1.45,340,493.0,227.8
+Cereal,Grains,1.96,3.89,101,392.89,194.93
+Bacon,Meat,7.16,11.51,196,2255.96,852.6
+Butter,Dairy,3.69,3.7,385,1424.5,3.85
+Cereal,Grains,1.68,2.83,256,724.48,294.4
+Bananas,Produce,1.71,2.26,500,1130.0,275.0
+Butter,Dairy,3.23,5.22,293,1529.46,583.07
+Butter,Dairy,1.55,4.86,205,996.3,678.55
+Chicken Breast,Meat,5.32,8.69,406,3528.14,1368.22
+Apples,Produce,0.79,4.01,118,473.18,379.96
+Chicken Breast,Meat,9.83,10.47,472,4941.84,302.08
+Cereal,Grains,2.11,3.74,158,590.92,257.54
+Pasta,Grains,2.35,3.28,494,1620.32,459.42
+Butter,Dairy,3.55,3.8,131,497.8,32.75
+Bacon,Meat,5.52,8.8,119,1047.2,390.32
+Tomato Soup,Canned Goods,4.05,5.38,148,796.24,196.84
+Eggs,Dairy,3.59,3.62,283,1024.46,8.49
+Pasta,Grains,2.09,2.47,65,160.55,24.7
+Rice,Grains,0.94,3.61,350,1263.5,934.5
+Tomato Soup,Canned Goods,2.09,4.74,182,862.68,482.3
+Bananas,Produce,0.77,0.9,75,67.5,9.75
+Corned Beef Hash,Canned Goods,3.96,4.9,159,779.1,149.46
+Eggs,Dairy,3.12,4.37,187,817.19,233.75
+Apples,Produce,1.73,4.38,449,1966.62,1189.85
+Apples,Produce,0.53,4.17,381,1588.77,1386.84
+Corned Beef Hash,Canned Goods,3.02,4.04,179,723.16,182.58
+Chicken Breast,Meat,8.13,10.32,190,1960.8,416.1
+Pasta,Grains,2.74,3.55,285,1011.75,230.85
+Chicken Breast,Meat,4.92,7.27,316,2297.32,742.6
+Cereal,Grains,1.49,4.0,311,1244.0,780.61
+Butter,Dairy,2.9,4.08,194,791.52,228.92
+Chicken Breast,Meat,7.95,8.61,222,1911.42,146.52
+Chicken Breast,Meat,7.66,11.46,183,2097.18,695.4
+Apples,Produce,2.63,4.1,202,828.2,296.94
+Eggs,Dairy,1.87,4.68,79,369.72,221.99
+Cereal,Grains,1.51,1.96,121,237.16,54.45
+Bananas,Produce,0.58,2.64,201,530.64,414.06
+Chicken Breast,Meat,9.39,10.31,427,4402.37,392.84
+Cereal,Grains,2.54,2.6,415,1079.0,24.9
+Rice,Grains,2.77,3.02,309,933.18,77.25
+Chicken Breast,Meat,9.0,11.3,498,5627.4,1145.4
+Tomato Soup,Canned Goods,1.47,1.49,115,171.35,2.3
+Bananas,Produce,1.28,3.79,440,1667.6,1104.4
+Corned Beef Hash,Canned Goods,4.3,5.5,385,2117.5,462.0
+Bacon,Meat,4.94,6.67,496,3308.32,858.08
+Chicken Breast,Meat,6.23,11.65,240,2796.0,1300.8
+Chicken Breast,Meat,7.31,8.48,110,932.8,128.7
+Rice,Grains,0.63,2.9,347,1006.3,787.69
+Cereal,Grains,0.68,3.67,306,1123.02,914.94
+Bacon,Meat,9.14,11.53,202,2329.06,482.78
+Corned Beef Hash,Canned Goods,1.31,2.0,259,518.0,178.71
+Cereal,Grains,2.73,3.96,123,487.08,151.29
+Butter,Dairy,3.66,3.71,91,337.61,4.55
+Apples,Produce,3.46,3.62,79,285.98,12.64
+Corned Beef Hash,Canned Goods,2.93,4.82,452,2178.64,854.28
+Bacon,Meat,4.34,8.25,269,2219.25,1051.79
+Pasta,Grains,1.57,2.43,52,126.36,44.72
+Milk,Dairy,2.83,4.56,57,259.92,98.61
+Butter,Dairy,3.39,3.86,59,227.74,27.73
+Apples,Produce,0.51,3.51,165,579.15,495.0
+Bananas,Produce,3.13,3.85,102,392.7,73.44
+Chicken Breast,Meat,9.67,11.66,316,3684.56,628.84
+Corned Beef Hash,Canned Goods,2.07,5.51,233,1283.83,801.52
+Eggs,Dairy,1.91,5.17,465,2404.05,1515.9
+Pasta,Grains,0.55,1.67,117,195.39,131.04
+Eggs,Dairy,3.34,4.06,136,552.16,97.92
+Bacon,Meat,5.88,9.88,69,681.72,276.0
+Pasta,Grains,2.69,2.87,323,927.01,58.14
+Cereal,Grains,2.99,3.51,384,1347.84,199.68
+Milk,Dairy,3.22,3.46,244,844.24,58.56
+Bacon,Meat,7.06,8.56,128,1095.68,192.0
+Eggs,Dairy,3.24,4.21,204,858.84,197.88
+Pasta,Grains,2.15,2.99,188,562.12,157.92
+Cereal,Grains,2.01,3.7,475,1757.5,802.75
+Tomato Soup,Canned Goods,3.46,4.92,108,531.36,157.68
+Rice,Grains,1.0,1.6,184,294.4,110.4
+Tomato Soup,Canned Goods,4.4,5.67,259,1468.53,328.93
+Butter,Dairy,2.09,5.17,95,491.15,292.6
+Cereal,Grains,2.17,3.34,96,320.64,112.32
+Bacon,Meat,8.2,9.83,181,1779.23,295.03
+Rice,Grains,2.97,3.44,287,987.28,134.89
+Milk,Dairy,3.63,4.58,396,1813.68,376.2
+Bacon,Meat,9.03,11.68,54,630.72,143.1
+Corned Beef Hash,Canned Goods,3.25,5.47,233,1274.51,517.26
+Cereal,Grains,1.17,3.2,240,768.0,487.2
+Butter,Dairy,1.96,3.4,283,962.2,407.52
+Chicken Breast,Meat,8.93,10.17,294,2989.98,364.56
+Pasta,Grains,2.12,3.39,107,362.73,135.89
+Corned Beef Hash,Canned Goods,3.38,3.95,482,1903.9,274.74
+Cereal,Grains,2.2,3.34,244,814.96,278.16
+Cereal,Grains,0.57,3.05,479,1460.95,1187.92
+Bananas,Produce,3.42,3.64,299,1088.36,65.78
+Cereal,Grains,2.31,3.62,392,1419.04,513.52
+Tomato Soup,Canned Goods,2.74,4.5,98,441.0,172.48
+Pasta,Grains,2.15,2.99,227,678.73,190.68
+Apples,Produce,1.65,3.9,335,1306.5,753.75
+Cereal,Grains,0.64,2.93,130,380.9,297.7
+Tomato Soup,Canned Goods,3.94,5.26,495,2603.7,653.4
+Corned Beef Hash,Canned Goods,1.08,3.46,173,598.58,411.74
+Butter,Dairy,3.93,4.86,164,797.04,152.52
+Bacon,Meat,6.48,11.01,279,3071.79,1263.87
+Bacon,Meat,9.07,12.36,110,1359.6,361.9
+Bananas,Produce,2.46,2.83,261,738.63,96.57
+Bacon,Meat,8.65,12.22,376,4594.72,1342.32
+Chicken Breast,Meat,9.29,10.04,385,3865.4,288.75
+Butter,Dairy,2.41,4.96,164,813.44,418.2
+Butter,Dairy,2.9,4.17,292,1217.64,370.84
+Bananas,Produce,2.47,3.45,108,372.6,105.84
+Bacon,Meat,8.44,9.75,224,2184.0,293.44
+Chicken Breast,Meat,7.06,7.8,104,811.2,76.96
+Milk,Dairy,3.74,4.51,470,2119.7,361.9
+Bananas,Produce,1.73,1.74,150,261.0,1.5
+Eggs,Dairy,1.8,4.98,160,796.8,508.8
+Rice,Grains,2.56,3.78,223,842.94,272.06
+Apples,Produce,2.27,3.66,280,1024.8,389.2
+Rice,Grains,2.15,3.87,118,456.66,202.96
+Rice,Grains,0.51,3.21,333,1068.93,899.1
+Pasta,Grains,2.6,3.34,310,1035.4,229.4
+Corned Beef Hash,Canned Goods,3.36,4.0,467,1868.0,298.88
+Butter,Dairy,2.76,3.35,361,1209.35,212.99
+Bananas,Produce,2.79,4.39,225,987.75,360.0
+Rice,Grains,2.51,3.1,358,1109.8,211.22
+Bananas,Produce,2.04,3.92,330,1293.6,620.4
+Butter,Dairy,3.28,5.27,373,1965.71,742.27
+Eggs,Dairy,2.0,4.18,198,827.64,431.64
+Apples,Produce,1.54,3.29,413,1358.77,722.75
+Apples,Produce,3.43,3.57,327,1167.39,45.78
+Tomato Soup,Canned Goods,1.86,5.24,463,2426.12,1564.94
+Milk,Dairy,2.81,2.93,124,363.32,14.88
+Corned Beef Hash,Canned Goods,4.44,5.2,124,644.8,94.24
+Bananas,Produce,2.85,3.81,327,1245.87,313.92
+Bacon,Meat,7.5,10.07,337,3393.59,866.09
+Eggs,Dairy,3.36,3.96,171,677.16,102.6
+Tomato Soup,Canned Goods,3.7,4.99,197,983.03,254.13
+Bananas,Produce,2.49,4.23,248,1049.04,431.52
+Pasta,Grains,2.89,3.93,210,825.3,218.4
+Tomato Soup,Canned Goods,1.0,4.72,153,722.16,569.16
+Cereal,Grains,2.67,3.58,276,988.08,251.16
+Eggs,Dairy,3.78,4.47,381,1703.07,262.89
+Butter,Dairy,3.39,3.91,358,1399.78,186.16
+Eggs,Dairy,3.44,5.38,200,1076.0,388.0
+Rice,Grains,0.94,3.05,145,442.25,305.95
+Corned Beef Hash,Canned Goods,3.52,3.78,70,264.6,18.2
+Corned Beef Hash,Canned Goods,1.4,5.23,52,271.96,199.16
+Butter,Dairy,2.67,5.28,70,369.6,182.7
+Corned Beef Hash,Canned Goods,4.24,5.66,446,2524.36,633.32
+Cereal,Grains,2.61,2.72,454,1234.88,49.94
+Butter,Dairy,1.68,4.48,319,1429.12,893.2
+Eggs,Dairy,3.89,4.63,452,2092.76,334.48
+Tomato Soup,Canned Goods,2.56,3.81,435,1657.35,543.75
+Apples,Produce,0.53,3.28,278,911.84,764.5
+Eggs,Dairy,3.76,4.15,368,1527.2,143.52
+Eggs,Dairy,3.9,4.39,214,939.46,104.86
+Pasta,Grains,2.79,3.83,247,946.01,256.88
+Chicken Breast,Meat,7.01,7.12,314,2235.68,34.54
+Butter,Dairy,2.79,3.78,299,1130.22,296.01
+Milk,Dairy,2.24,4.28,214,915.92,436.56
+Tomato Soup,Canned Goods,1.1,1.48,445,658.6,169.1
+Tomato Soup,Canned Goods,2.77,4.13,157,648.41,213.52
+Apples,Produce,2.39,2.79,400,1116.0,160.0
+Bananas,Produce,3.14,3.54,272,962.88,108.8
+Apples,Produce,2.95,3.74,401,1499.74,316.79
+Tomato Soup,Canned Goods,1.06,5.11,182,930.02,737.1
+Pasta,Grains,1.47,2.89,271,783.19,384.82
+Butter,Dairy,1.54,4.36,323,1408.28,910.86
+Milk,Dairy,3.1,4.16,437,1817.92,463.22
+Bananas,Produce,2.26,3.39,87,294.93,98.31
+Butter,Dairy,3.82,4.4,452,1988.8,262.16
+Cereal,Grains,0.72,3.3,274,904.2,706.92
+Pasta,Grains,1.49,2.98,292,870.16,435.08
+Corned Beef Hash,Canned Goods,2.77,4.98,250,1245.0,552.5
+Tomato Soup,Canned Goods,1.89,4.17,202,842.34,460.56
+Apples,Produce,3.16,4.37,493,2154.41,596.53
+Bananas,Produce,2.44,4.34,55,238.7,104.5
+Tomato Soup,Canned Goods,4.04,5.73,71,406.83,119.99
+Chicken Breast,Meat,4.87,10.56,421,4445.76,2395.49
+Butter,Dairy,2.03,5.17,485,2507.45,1522.9
+Tomato Soup,Canned Goods,1.33,1.92,365,700.8,215.35
+Chicken Breast,Meat,4.76,6.36,459,2919.24,734.4
+Cereal,Grains,2.63,3.55,331,1175.05,304.52
+Rice,Grains,2.11,3.18,393,1249.74,420.51
+Rice,Grains,2.88,2.97,393,1167.21,35.37
+Bacon,Meat,5.35,5.52,149,822.48,25.33
+Butter,Dairy,2.71,3.15,387,1219.05,170.28
+Chicken Breast,Meat,8.01,8.21,340,2791.4,68.0
+Milk,Dairy,2.28,4.75,414,1966.5,1022.58
+Bananas,Produce,2.42,3.51,234,821.34,255.06
+Rice,Grains,1.66,2.08,206,428.48,86.52
+Rice,Grains,1.88,3.48,360,1252.8,576.0
+Tomato Soup,Canned Goods,1.53,4.67,370,1727.9,1161.8
+Bacon,Meat,8.23,11.69,484,5657.96,1674.64
+Tomato Soup,Canned Goods,3.14,5.06,346,1750.76,664.32
+Pasta,Grains,2.42,2.65,68,180.2,15.64
+Tomato Soup,Canned Goods,4.11,4.88,384,1873.92,295.68
+Butter,Dairy,2.48,5.12,351,1797.12,926.64
+Bananas,Produce,3.07,3.25,306,994.5,55.08
+Cereal,Grains,2.21,3.27,121,395.67,128.26
+Rice,Grains,0.9,2.7,339,915.3,610.2
+Apples,Produce,3.12,4.16,424,1763.84,440.96
+Butter,Dairy,2.47,5.21,73,380.33,200.02
+Milk,Dairy,3.95,5.39,410,2209.9,590.4
+Apples,Produce,2.99,3.89,184,715.76,165.6
+Cereal,Grains,1.86,2.14,384,821.76,107.52
+Cereal,Grains,2.13,3.51,314,1102.14,433.32
+Chicken Breast,Meat,5.95,11.8,314,3705.2,1836.9
+Pasta,Grains,1.38,3.6,299,1076.4,663.78
+Rice,Grains,2.72,2.81,121,340.01,10.89
+Bacon,Meat,7.8,8.11,219,1776.09,67.89
+Bananas,Produce,0.84,3.3,295,973.5,725.7
+Eggs,Dairy,2.98,4.27,260,1110.2,335.4
+Milk,Dairy,2.11,2.45,353,864.85,120.02
+Corned Beef Hash,Canned Goods,1.3,3.56,343,1221.08,775.18
+Corned Beef Hash,Canned Goods,1.01,2.29,142,325.18,181.76
+Tomato Soup,Canned Goods,4.35,5.39,338,1821.82,351.52
+Bananas,Produce,2.49,3.04,93,282.72,51.15
+Rice,Grains,2.67,2.75,475,1306.25,38.0
+Corned Beef Hash,Canned Goods,3.11,3.55,135,479.25,59.4
+Bananas,Produce,2.56,4.21,355,1494.55,585.75
+Cereal,Grains,0.67,2.13,117,249.21,170.82
+Bacon,Meat,3.61,8.92,308,2747.36,1635.48
+Apples,Produce,1.76,4.14,99,409.86,235.62
+Cereal,Grains,0.6,3.35,307,1028.45,844.25
+Bacon,Meat,4.11,9.95,358,3562.1,2090.72
+Tomato Soup,Canned Goods,3.86,5.48,446,2444.08,722.52
+Apples,Produce,2.45,2.73,239,652.47,66.92
+Milk,Dairy,3.24,3.5,460,1610.0,119.6
+Rice,Grains,2.47,3.41,351,1196.91,329.94
+Bananas,Produce,2.23,2.37,180,426.6,25.2
+Rice,Grains,2.41,3.73,92,343.16,121.44
+Chicken Breast,Meat,7.39,9.08,181,1643.48,305.89
+Eggs,Dairy,1.51,4.6,53,243.8,163.77
+Cereal,Grains,1.81,2.56,242,619.52,181.5
+Apples,Produce,1.12,3.78,259,979.02,688.94
+Butter,Dairy,1.77,3.49,349,1218.01,600.28
+Chicken Breast,Meat,5.2,9.02,339,3057.78,1294.98
+Butter,Dairy,3.03,5.47,253,1383.91,617.32
+Eggs,Dairy,2.53,4.74,297,1407.78,656.37
+Corned Beef Hash,Canned Goods,2.17,3.77,179,674.83,286.4
+Chicken Breast,Meat,7.25,10.81,253,2734.93,900.68
+Bananas,Produce,0.91,4.0,110,440.0,339.9
+Bananas,Produce,1.19,3.7,132,488.4,331.32
+Bacon,Meat,4.89,8.0,223,1784.0,693.53
+Tomato Soup,Canned Goods,3.07,4.42,76,335.92,102.6
+Corned Beef Hash,Canned Goods,2.24,4.18,461,1926.98,894.34
+Bacon,Meat,8.85,12.38,357,4419.66,1260.21
+Cereal,Grains,2.14,3.32,355,1178.6,418.9
+Corned Beef Hash,Canned Goods,3.17,3.19,153,488.07,3.06
+Apples,Produce,3.29,4.49,149,669.01,178.8
+Pasta,Grains,1.38,2.19,350,766.5,283.5
+Eggs,Dairy,2.79,4.58,85,389.3,152.15
+Bacon,Meat,7.07,10.45,336,3511.2,1135.68
+Cereal,Grains,1.37,3.89,191,742.99,481.32
+Eggs,Dairy,3.02,4.01,256,1026.56,253.44
+Chicken Breast,Meat,4.64,8.8,336,2956.8,1397.76
+Bacon,Meat,6.77,7.55,109,822.95,85.02
+Tomato Soup,Canned Goods,4.34,5.38,466,2507.08,484.64
+Cereal,Grains,1.13,2.33,243,566.19,291.6
+Cereal,Grains,1.71,1.73,223,385.79,4.46
+Rice,Grains,2.2,3.69,491,1811.79,731.59
+Milk,Dairy,2.7,2.9,245,710.5,49.0
+Apples,Produce,2.87,4.34,409,1775.06,601.23
+Tomato Soup,Canned Goods,2.78,4.5,184,828.0,316.48
+Eggs,Dairy,2.22,3.4,433,1472.2,510.94
+Butter,Dairy,1.69,5.26,293,1541.18,1046.01
+Butter,Dairy,2.38,5.13,187,959.31,514.25
+Corned Beef Hash,Canned Goods,4.3,4.42,147,649.74,17.64
+Rice,Grains,2.34,3.62,173,626.26,221.44
+Eggs,Dairy,2.07,4.92,478,2351.76,1362.3
+Cereal,Grains,1.39,3.34,111,370.74,216.45
+Bacon,Meat,7.89,9.98,364,3632.72,760.76
+Milk,Dairy,3.41,3.9,71,276.9,34.79
+Rice,Grains,1.43,1.95,344,670.8,178.88
+Chicken Breast,Meat,6.69,12.38,311,3850.18,1769.59
+Chicken Breast,Meat,6.09,10.63,115,1222.45,522.1
+Milk,Dairy,2.81,3.48,326,1134.48,218.42
+Milk,Dairy,2.76,3.38,401,1355.38,248.62
+Corned Beef Hash,Canned Goods,2.49,3.3,315,1039.5,255.15
+Bananas,Produce,0.53,3.29,244,802.76,673.44
+Cereal,Grains,0.75,2.08,491,1021.28,653.03
+Chicken Breast,Meat,4.72,6.97,187,1303.39,420.75
+Rice,Grains,2.9,3.1,144,446.4,28.8
+Butter,Dairy,2.41,3.4,280,952.0,277.2
+Corned Beef Hash,Canned Goods,2.91,5.9,401,2365.9,1198.99
+Eggs,Dairy,3.54,4.52,461,2083.72,451.78
+Eggs,Dairy,2.89,5.0,150,750.0,316.5
+Corned Beef Hash,Canned Goods,3.76,4.69,292,1369.48,271.56
+Milk,Dairy,1.94,3.75,484,1815.0,876.04
+Apples,Produce,2.05,3.47,452,1568.44,641.84
+Rice,Grains,1.25,2.69,340,914.6,489.6
+Milk,Dairy,2.5,4.42,80,353.6,153.6
+Eggs,Dairy,3.53,3.67,372,1365.24,52.08
+Bacon,Meat,6.42,7.51,234,1757.34,255.06
+Butter,Dairy,2.9,5.26,181,952.06,427.16
+Butter,Dairy,1.55,2.42,494,1195.48,429.78
+Apples,Produce,3.39,4.42,344,1520.48,354.32
+Chicken Breast,Meat,5.81,10.05,299,3004.95,1267.76
+Bananas,Produce,1.84,1.86,364,677.04,7.28
+Apples,Produce,3.37,4.01,377,1511.77,241.28
+Butter,Dairy,2.55,4.14,257,1063.98,408.63
+Bacon,Meat,4.01,7.58,210,1591.8,749.7
+Butter,Dairy,3.13,4.49,359,1611.91,488.24
+Apples,Produce,1.69,4.08,449,1831.92,1073.11
+Butter,Dairy,3.37,3.82,280,1069.6,126.0
+Pasta,Grains,0.92,3.56,114,405.84,300.96
+Bananas,Produce,1.2,1.73,430,743.9,227.9
+Bananas,Produce,2.75,4.05,253,1024.65,328.9
+Tomato Soup,Canned Goods,1.0,4.85,318,1542.3,1224.3
+Bacon,Meat,4.18,9.64,93,896.52,507.78
+Apples,Produce,3.29,3.9,167,651.3,101.87
+Milk,Dairy,1.59,3.25,216,702.0,358.56
+Rice,Grains,1.67,3.61,189,682.29,366.66
+Tomato Soup,Canned Goods,2.45,5.85,407,2380.95,1383.8
+Tomato Soup,Canned Goods,1.46,3.99,373,1488.27,943.69
+Bananas,Produce,2.41,2.89,318,919.02,152.64
+Apples,Produce,2.42,2.58,227,585.66,36.32
+Eggs,Dairy,3.51,3.55,237,841.35,9.48
+Pasta,Grains,1.15,1.91,50,95.5,38.0
+Tomato Soup,Canned Goods,3.82,5.24,226,1184.24,320.92
+Chicken Breast,Meat,6.55,12.1,301,3642.1,1670.55
+Rice,Grains,1.25,3.3,458,1511.4,938.9
+Chicken Breast,Meat,7.38,10.98,330,3623.4,1188.0
+Butter,Dairy,1.97,5.09,273,1389.57,851.76
+Pasta,Grains,1.12,3.14,380,1193.2,767.6
+Pasta,Grains,2.57,3.29,90,296.1,64.8
+Cereal,Grains,2.52,3.05,195,594.75,103.35
+Apples,Produce,2.73,3.79,261,989.19,276.66
+Eggs,Dairy,3.63,4.45,198,881.1,162.36
+Rice,Grains,0.97,1.06,75,79.5,6.75
+Tomato Soup,Canned Goods,0.88,5.86,194,1136.84,966.12
+Chicken Breast,Meat,4.31,8.29,54,447.66,214.92
+Eggs,Dairy,1.73,2.05,161,330.05,51.52
+Butter,Dairy,2.55,4.75,305,1448.75,671.0
+Butter,Dairy,2.66,4.77,219,1044.63,462.09
+Bacon,Meat,8.98,12.14,78,946.92,246.48
+Chicken Breast,Meat,8.54,11.72,290,3398.8,922.2
+Chicken Breast,Meat,8.81,11.21,112,1255.52,268.8
+Bananas,Produce,1.25,3.65,276,1007.4,662.4
+Eggs,Dairy,3.34,4.57,285,1302.45,350.55
+Bacon,Meat,6.89,12.37,292,3612.04,1600.16
+Pasta,Grains,2.2,3.18,215,683.7,210.7
+Bananas,Produce,3.31,4.4,179,787.6,195.11
+Eggs,Dairy,3.08,3.14,135,423.9,8.1
+Chicken Breast,Meat,7.3,7.97,174,1386.78,116.58
+Milk,Dairy,3.92,4.03,403,1624.09,44.33
+Rice,Grains,2.22,2.86,444,1269.84,284.16
+Apples,Produce,0.68,2.12,128,271.36,184.32
+Bananas,Produce,2.11,4.43,299,1324.57,693.68
+Apples,Produce,2.77,3.78,274,1035.72,276.74
+Bananas,Produce,1.08,3.35,233,780.55,528.91
+Bananas,Produce,0.9,4.13,298,1230.74,962.54
+Bananas,Produce,1.81,1.89,406,767.34,32.48
+Rice,Grains,0.97,1.56,228,355.68,134.52
+Butter,Dairy,3.33,4.1,475,1947.5,365.75
+Tomato Soup,Canned Goods,1.39,3.66,280,1024.8,635.6
+Chicken Breast,Meat,8.83,9.06,282,2554.92,64.86
+Milk,Dairy,3.44,3.77,425,1602.25,140.25
+Corned Beef Hash,Canned Goods,4.07,4.1,236,967.6,7.08
+Cereal,Grains,1.1,3.16,387,1222.92,797.22
+Tomato Soup,Canned Goods,3.83,4.07,399,1623.93,95.76
+Butter,Dairy,2.52,3.13,99,309.87,60.39
+Tomato Soup,Canned Goods,3.24,4.21,116,488.36,112.52
+Pasta,Grains,2.14,2.58,409,1055.22,179.96
+Cereal,Grains,1.14,2.1,360,756.0,345.6
+Bananas,Produce,0.71,4.24,156,661.44,550.68
+Apples,Produce,1.97,4.09,90,368.1,190.8
+Rice,Grains,2.5,3.23,335,1082.05,244.55
+Pasta,Grains,2.56,3.38,79,267.02,64.78
+Cereal,Grains,1.16,3.5,86,301.0,201.24
+Bacon,Meat,9.64,12.2,99,1207.8,253.44
+Bacon,Meat,8.21,8.99,147,1321.53,114.66
+Eggs,Dairy,2.82,2.87,370,1061.9,18.5
+Corned Beef Hash,Canned Goods,2.87,3.79,432,1637.28,397.44
+Bacon,Meat,8.48,9.32,395,3681.4,331.8
+Rice,Grains,2.26,2.28,103,234.84,2.06
+Corned Beef Hash,Canned Goods,3.73,3.75,308,1155.0,6.16
+Butter,Dairy,3.14,3.87,357,1381.59,260.61
+Rice,Grains,2.83,3.71,331,1228.01,291.28
+Butter,Dairy,3.61,4.54,374,1697.96,347.82
+Cereal,Grains,1.1,2.64,242,638.88,372.68
+Tomato Soup,Canned Goods,4.23,4.63,281,1301.03,112.4
+Chicken Breast,Meat,7.37,8.88,204,1811.52,308.04
+Milk,Dairy,2.25,2.78,488,1356.64,258.64
+Butter,Dairy,1.55,4.88,403,1966.64,1341.99
+Chicken Breast,Meat,9.47,11.94,342,4083.48,844.74
+Corned Beef Hash,Canned Goods,1.15,3.3,129,425.7,277.35
+Corned Beef Hash,Canned Goods,1.78,5.45,177,964.65,649.59
+Eggs,Dairy,2.14,3.05,342,1043.1,311.22
+Pasta,Grains,1.92,3.17,89,282.13,111.25
+Rice,Grains,0.93,3.48,403,1402.44,1027.65
+Bananas,Produce,2.23,4.16,354,1472.64,683.22
+Apples,Produce,1.4,3.5,345,1207.5,724.5
+Pasta,Grains,0.7,1.17,444,519.48,208.68
+Butter,Dairy,2.37,4.86,263,1278.18,654.87
+Bacon,Meat,9.15,11.37,384,4366.08,852.48
+Milk,Dairy,3.08,4.21,77,324.17,87.01
+Chicken Breast,Meat,6.91,7.39,339,2505.21,162.72
+Corned Beef Hash,Canned Goods,2.01,4.49,128,574.72,317.44
+Milk,Dairy,3.18,5.49,278,1526.22,642.18
+Cereal,Grains,1.94,2.18,271,590.78,65.04
+Corned Beef Hash,Canned Goods,2.04,3.38,431,1456.78,577.54
+Milk,Dairy,2.87,2.92,254,741.68,12.7
+Tomato Soup,Canned Goods,2.41,4.49,440,1975.6,915.2
+Corned Beef Hash,Canned Goods,2.58,4.26,252,1073.52,423.36
+Eggs,Dairy,2.9,5.49,318,1745.82,823.62
+Eggs,Dairy,2.11,2.93,270,791.1,221.4
+Butter,Dairy,3.21,4.02,107,430.14,86.67
+Apples,Produce,1.74,2.15,147,316.05,60.27
+Butter,Dairy,2.36,4.29,444,1904.76,856.92
+Chicken Breast,Meat,4.6,7.62,470,3581.4,1419.4
+Rice,Grains,2.06,2.32,468,1085.76,121.68
+Eggs,Dairy,2.0,3.31,437,1446.47,572.47
+Bananas,Produce,3.06,3.1,77,238.7,3.08
+Corned Beef Hash,Canned Goods,4.01,5.1,57,290.7,62.13
+Butter,Dairy,3.23,3.65,280,1022.0,117.6
+Butter,Dairy,2.02,3.88,154,597.52,286.44
+Tomato Soup,Canned Goods,2.74,4.12,297,1223.64,409.86
+Corned Beef Hash,Canned Goods,3.37,4.34,242,1050.28,234.74
+Cereal,Grains,2.77,3.37,180,606.6,108.0
+Cereal,Grains,1.18,2.39,54,129.06,65.34
+Bacon,Meat,6.03,7.03,486,3416.58,486.0
+Apples,Produce,1.58,4.01,199,797.99,483.57
+Apples,Produce,1.66,4.43,310,1373.3,858.7
+Bananas,Produce,0.8,1.97,493,971.21,576.81
+Cereal,Grains,1.83,3.9,306,1193.4,633.42
+Tomato Soup,Canned Goods,4.23,5.61,176,987.36,242.88
+Chicken Breast,Meat,5.67,7.95,130,1033.5,296.4
+Milk,Dairy,2.37,3.23,370,1195.1,318.2
+Chicken Breast,Meat,5.04,12.34,306,3776.04,2233.8
+Chicken Breast,Meat,8.78,9.69,499,4835.31,454.09
+Pasta,Grains,2.73,3.44,65,223.6,46.15
+Tomato Soup,Canned Goods,4.31,5.49,224,1229.76,264.32
+Apples,Produce,0.91,3.5,316,1106.0,818.44
+Apples,Produce,2.34,3.11,166,516.26,127.82
+Pasta,Grains,1.1,1.46,209,305.14,75.24
+Cereal,Grains,1.32,2.63,155,407.65,203.05
+Apples,Produce,0.92,2.8,459,1285.2,862.92
+Eggs,Dairy,3.66,5.15,411,2116.65,612.39
+Corned Beef Hash,Canned Goods,2.39,5.55,444,2464.2,1403.04
+Corned Beef Hash,Canned Goods,3.23,3.82,130,496.6,76.7
+Butter,Dairy,1.67,3.87,418,1617.66,919.6
+Bacon,Meat,4.7,11.3,124,1401.2,818.4
+Bananas,Produce,0.59,1.98,261,516.78,362.79
+Pasta,Grains,1.26,3.24,470,1522.8,930.6
+Apples,Produce,3.3,4.45,448,1993.6,515.2
+Cereal,Grains,1.17,2.7,168,453.6,257.04
+Cereal,Grains,1.08,3.06,233,712.98,461.34
+Bacon,Meat,7.97,8.57,307,2630.99,184.2
+Cereal,Grains,1.67,2.95,144,424.8,184.32
+Pasta,Grains,1.73,2.23,148,330.04,74.0
+Milk,Dairy,3.81,5.33,163,868.79,247.76
+Bananas,Produce,2.51,4.23,154,651.42,264.88
+Rice,Grains,2.67,3.6,216,777.6,200.88
+Eggs,Dairy,2.57,4.72,361,1703.92,776.15
+Bananas,Produce,2.97,3.46,251,868.46,122.99
+Cereal,Grains,2.85,3.63,324,1176.12,252.72
+Milk,Dairy,2.8,3.58,473,1693.34,368.94
+Milk,Dairy,3.69,4.57,325,1485.25,286.0
+Tomato Soup,Canned Goods,2.23,4.83,75,362.25,195.0
+Eggs,Dairy,2.23,3.39,205,694.95,237.8
+Chicken Breast,Meat,6.5,8.17,363,2965.71,606.21
+Milk,Dairy,3.22,5.16,287,1480.92,556.78
+Apples,Produce,1.86,3.47,107,371.29,172.27
+Corned Beef Hash,Canned Goods,3.68,5.69,406,2310.14,816.06
+Tomato Soup,Canned Goods,1.3,3.07,280,859.6,495.6
+Milk,Dairy,1.95,4.07,414,1684.98,877.68
+Eggs,Dairy,3.71,4.42,215,950.3,152.65
+Bananas,Produce,2.89,3.46,113,390.98,64.41
+Bacon,Meat,4.24,8.37,235,1966.95,970.55
+Bacon,Meat,6.9,7.88,455,3585.4,445.9
+Tomato Soup,Canned Goods,3.06,4.84,331,1602.04,589.18
+Butter,Dairy,2.91,4.31,126,543.06,176.4
+Corned Beef Hash,Canned Goods,4.01,4.65,414,1925.1,264.96
+Rice,Grains,1.22,1.54,117,180.18,37.44
+Eggs,Dairy,1.51,4.68,56,262.08,177.52
+Rice,Grains,1.74,2.5,463,1157.5,351.88
+Milk,Dairy,3.02,3.73,161,600.53,114.31
+Cereal,Grains,2.15,2.36,276,651.36,57.96
+Bacon,Meat,7.41,9.71,330,3204.3,759.0
+Eggs,Dairy,1.62,2.52,384,967.68,345.6
+Butter,Dairy,1.59,4.99,391,1951.09,1329.4
+Cereal,Grains,2.6,3.02,94,283.88,39.48
+Cereal,Grains,2.15,3.1,343,1063.3,325.85
+Tomato Soup,Canned Goods,1.46,3.28,346,1134.88,629.72
+Butter,Dairy,3.83,5.14,203,1043.42,265.93
+Bacon,Meat,8.43,11.32,83,939.56,239.87
+Chicken Breast,Meat,6.56,7.06,490,3459.4,245.0
+Tomato Soup,Canned Goods,2.33,4.06,157,637.42,271.61
+Bacon,Meat,7.21,12.35,320,3952.0,1644.8
+Bacon,Meat,6.64,10.16,453,4602.48,1594.56
+Bananas,Produce,1.36,3.05,212,646.6,358.28
+Chicken Breast,Meat,6.92,12.46,231,2878.26,1279.74
+Corned Beef Hash,Canned Goods,3.07,3.48,423,1472.04,173.43
+Apples,Produce,1.99,3.79,362,1371.98,651.6
+Eggs,Dairy,3.27,5.43,50,271.5,108.0
+Bacon,Meat,3.66,9.69,110,1065.9,663.3
+Bananas,Produce,3.04,3.76,262,985.12,188.64
+Pasta,Grains,0.61,2.05,462,947.1,665.28
+Apples,Produce,1.14,3.17,403,1277.51,818.09
+Chicken Breast,Meat,5.15,5.51,203,1118.53,73.08
+Tomato Soup,Canned Goods,2.83,4.84,108,522.72,217.08
+Apples,Produce,1.5,2.27,341,774.07,262.57
+Cereal,Grains,2.9,3.5,149,521.5,89.4
+Butter,Dairy,3.58,5.23,295,1542.85,486.75
+Rice,Grains,2.49,2.94,296,870.24,133.2
+Corned Beef Hash,Canned Goods,3.12,5.46,324,1769.04,758.16
+Butter,Dairy,2.66,4.85,430,2085.5,941.7
+Milk,Dairy,3.59,4.37,421,1839.77,328.38
+Tomato Soup,Canned Goods,2.78,5.58,400,2232.0,1120.0
+Butter,Dairy,1.67,2.52,480,1209.6,408.0
+Milk,Dairy,2.35,3.31,323,1069.13,310.08
+Corned Beef Hash,Canned Goods,2.91,2.95,354,1044.3,14.16
+Bacon,Meat,9.12,10.64,411,4373.04,624.72
+Butter,Dairy,3.27,3.74,94,351.56,44.18
+Eggs,Dairy,2.43,4.9,204,999.6,503.88
+Eggs,Dairy,2.81,4.75,241,1144.75,467.54
+Eggs,Dairy,3.78,4.8,62,297.6,63.24
+Tomato Soup,Canned Goods,1.37,2.7,297,801.9,395.01
+Bananas,Produce,3.12,4.03,217,874.51,197.47
+Tomato Soup,Canned Goods,3.3,5.32,420,2234.4,848.4
+Bacon,Meat,3.53,11.99,401,4807.99,3392.46
+Cereal,Grains,2.68,3.3,73,240.9,45.26
+Bananas,Produce,1.44,2.94,209,614.46,313.5
+Apples,Produce,3.18,3.66,148,541.68,71.04
+Apples,Produce,0.85,1.35,190,256.5,95.0
+Bacon,Meat,3.6,9.67,313,3026.71,1899.91
+Bacon,Meat,4.84,7.63,213,1625.19,594.27
+Chicken Breast,Meat,4.42,10.28,195,2004.6,1142.7
+Cereal,Grains,1.11,1.21,363,439.23,36.3
+Butter,Dairy,2.85,3.65,64,233.6,51.2
+Apples,Produce,0.65,2.22,94,208.68,147.58
+Pasta,Grains,1.48,3.11,353,1097.83,575.39
+Apples,Produce,3.01,3.39,365,1237.35,138.7
+Butter,Dairy,2.28,4.86,415,2016.9,1070.7
+Apples,Produce,2.93,3.63,436,1582.68,305.2
+Cereal,Grains,0.83,3.44,407,1400.08,1062.27
+Rice,Grains,0.74,1.93,379,731.47,451.01
+Bananas,Produce,2.8,4.11,164,674.04,214.84
+Chicken Breast,Meat,9.43,11.88,408,4847.04,999.6
+Butter,Dairy,3.47,5.09,282,1435.38,456.84
+Rice,Grains,0.58,2.43,229,556.47,423.65
+Rice,Grains,1.65,2.05,443,908.15,177.2
+Cereal,Grains,0.82,1.31,468,613.08,229.32
+Bananas,Produce,2.89,2.98,382,1138.36,34.38
+Eggs,Dairy,3.05,3.92,296,1160.32,257.52
+Pasta,Grains,0.67,1.62,405,656.1,384.75
+Cereal,Grains,1.58,3.94,340,1339.6,802.4
+Butter,Dairy,2.86,4.34,389,1688.26,575.72
+Bananas,Produce,3.29,3.34,299,998.66,14.95
+Cereal,Grains,2.43,2.93,303,887.79,151.5
+Milk,Dairy,1.73,4.86,347,1686.42,1086.11
+Apples,Produce,2.93,3.6,388,1396.8,259.96
+Corned Beef Hash,Canned Goods,2.48,3.89,365,1419.85,514.65
+Eggs,Dairy,2.01,5.07,203,1029.21,621.18
+Cereal,Grains,2.49,3.04,272,826.88,149.6
+Bananas,Produce,3.45,3.94,95,374.3,46.55
+Chicken Breast,Meat,3.91,11.76,77,905.52,604.45
+Milk,Dairy,3.26,4.87,233,1134.71,375.13
+Bacon,Meat,9.1,11.49,170,1953.3,406.3
+Pasta,Grains,2.26,3.14,212,665.68,186.56
+Pasta,Grains,1.45,2.64,389,1026.96,462.91
+Corned Beef Hash,Canned Goods,2.56,5.22,246,1284.12,654.36
+Butter,Dairy,3.6,4.35,496,2157.6,372.0
+Corned Beef Hash,Canned Goods,0.84,4.24,123,521.52,418.2
+Bananas,Produce,3.15,3.23,119,384.37,9.52
+Bacon,Meat,4.39,11.04,490,5409.6,3258.5
+Rice,Grains,2.73,3.09,267,825.03,96.12
+Cereal,Grains,0.95,2.53,332,839.96,524.56
+Rice,Grains,1.46,1.68,267,448.56,58.74
+Cereal,Grains,0.52,2.49,424,1055.76,835.28
+Eggs,Dairy,3.28,4.02,329,1322.58,243.46
+Milk,Dairy,3.95,3.99,410,1635.9,16.4
+Butter,Dairy,1.78,3.69,403,1487.07,769.73
+Bacon,Meat,4.42,10.48,489,5124.72,2963.34
+Chicken Breast,Meat,6.52,8.54,362,3091.48,731.24
+Bananas,Produce,2.49,3.27,400,1308.0,312.0
+Apples,Produce,2.12,2.94,363,1067.22,297.66
+Milk,Dairy,3.76,3.87,55,212.85,6.05
+Rice,Grains,1.64,3.72,343,1275.96,713.44
+Bananas,Produce,1.49,2.11,458,966.38,283.96
+Chicken Breast,Meat,5.38,10.62,355,3770.1,1860.2
+Bananas,Produce,2.86,4.46,372,1659.12,595.2
+Bananas,Produce,2.37,3.7,92,340.4,122.36
+Chicken Breast,Meat,4.36,7.11,489,3476.79,1344.75
+Chicken Breast,Meat,3.59,5.84,139,811.76,312.75
+Cereal,Grains,2.35,2.98,239,712.22,150.57
+Corned Beef Hash,Canned Goods,1.77,4.5,298,1341.0,813.54
+Corned Beef Hash,Canned Goods,3.76,5.31,225,1194.75,348.75
+Bacon,Meat,9.79,12.45,470,5851.5,1250.2
+Pasta,Grains,1.09,2.32,376,872.32,462.48
+Corned Beef Hash,Canned Goods,1.58,4.67,226,1055.42,698.34
+Milk,Dairy,3.11,4.64,109,505.76,166.77
+Milk,Dairy,1.92,3.4,204,693.6,301.92
+Rice,Grains,2.37,3.26,322,1049.72,286.58
+Eggs,Dairy,2.45,4.47,292,1305.24,589.84
+Chicken Breast,Meat,4.44,11.53,56,645.68,397.04
+Chicken Breast,Meat,9.53,12.17,397,4831.49,1048.08
+Bacon,Meat,9.47,9.78,482,4713.96,149.42
+Pasta,Grains,2.03,2.96,189,559.44,175.77
+Butter,Dairy,2.18,4.81,180,865.8,473.4
+Apples,Produce,2.25,2.51,395,991.45,102.7
+Bananas,Produce,1.23,3.29,444,1460.76,914.64
+Eggs,Dairy,2.8,4.37,142,620.54,222.94
+Butter,Dairy,2.87,4.35,475,2066.25,703.0
+Bacon,Meat,3.58,5.73,103,590.19,221.45
+Apples,Produce,1.84,3.09,195,602.55,243.75
+Milk,Dairy,3.85,4.3,477,2051.1,214.65
+Eggs,Dairy,3.88,4.23,412,1742.76,144.2
+Bacon,Meat,4.06,9.54,242,2308.68,1326.16
+Apples,Produce,2.79,3.2,461,1475.2,189.01
+Corned Beef Hash,Canned Goods,4.12,4.48,179,801.92,64.44
+Chicken Breast,Meat,6.54,12.02,377,4531.54,2065.96
+Rice,Grains,2.81,3.08,268,825.44,72.36
+Apples,Produce,2.81,3.69,132,487.08,116.16
+Chicken Breast,Meat,8.55,12.47,220,2743.4,862.4
+Chicken Breast,Meat,9.71,12.35,275,3396.25,726.0
+Eggs,Dairy,3.03,3.89,301,1170.89,258.86
+Pasta,Grains,1.05,2.93,276,808.68,518.88
+Bananas,Produce,1.28,2.91,86,250.26,140.18
+Chicken Breast,Meat,8.55,9.8,304,2979.2,380.0
+Milk,Dairy,3.16,3.37,408,1374.96,85.68
+Milk,Dairy,2.79,5.29,301,1592.29,752.5
+Rice,Grains,1.59,3.53,449,1584.97,871.06
+Bacon,Meat,7.01,11.13,402,4474.26,1656.24
+Rice,Grains,0.8,2.61,233,608.13,421.73
+Butter,Dairy,3.2,3.4,373,1268.2,74.6
+Apples,Produce,0.77,2.78,224,622.72,450.24
+Bacon,Meat,8.97,10.7,198,2118.6,342.54
+Apples,Produce,1.11,2.85,246,701.1,428.04
+Apples,Produce,1.07,3.37,104,350.48,239.2
+Apples,Produce,2.57,2.6,373,969.8,11.19
+Rice,Grains,2.34,3.99,148,590.52,244.2
+Eggs,Dairy,2.72,4.25,326,1385.5,498.78
+Rice,Grains,1.83,3.5,280,980.0,467.6
+Milk,Dairy,1.59,2.2,453,996.6,276.33
+Bananas,Produce,0.63,1.24,463,574.12,282.43
+Apples,Produce,2.5,4.02,397,1595.94,603.44
+Tomato Soup,Canned Goods,1.35,3.9,86,335.4,219.3
+Milk,Dairy,3.34,3.71,59,218.89,21.83
+Rice,Grains,2.77,2.86,174,497.64,15.66
+Bananas,Produce,2.45,3.74,373,1395.02,481.17
+Rice,Grains,2.03,3.51,82,287.82,121.36
+Bacon,Meat,4.24,9.46,365,3452.9,1905.3
+Eggs,Dairy,1.66,2.71,222,601.62,233.1
+Bananas,Produce,2.54,2.93,400,1172.0,156.0
+Corned Beef Hash,Canned Goods,1.99,5.82,159,925.38,608.97
+Milk,Dairy,2.98,3.17,111,351.87,21.09
+Chicken Breast,Meat,4.42,8.11,406,3292.66,1498.14
+Butter,Dairy,2.88,3.54,347,1228.38,229.02
+Milk,Dairy,1.83,4.77,373,1779.21,1096.62
+Cereal,Grains,1.44,1.47,500,735.0,15.0
+Rice,Grains,0.7,1.02,95,96.9,30.4
+Bananas,Produce,2.46,4.08,263,1073.04,426.06
+Bananas,Produce,2.92,3.66,404,1478.64,298.96
+Corned Beef Hash,Canned Goods,1.56,4.2,317,1331.4,836.88
+Rice,Grains,1.53,3.81,362,1379.22,825.36
+Bananas,Produce,0.61,1.47,305,448.35,262.3
+Cereal,Grains,2.88,3.96,450,1782.0,486.0
+Bacon,Meat,7.52,11.47,326,3739.22,1287.7
+Tomato Soup,Canned Goods,1.61,4.85,387,1876.95,1253.88
+Eggs,Dairy,2.19,2.68,457,1224.76,223.93
+Corned Beef Hash,Canned Goods,3.34,5.84,292,1705.28,730.0
+Rice,Grains,0.94,3.01,72,216.72,149.04
+Milk,Dairy,3.11,4.16,272,1131.52,285.6
+Rice,Grains,0.61,3.22,325,1046.5,848.25
+Corned Beef Hash,Canned Goods,1.38,1.58,313,494.54,62.6
+Eggs,Dairy,3.3,4.07,216,879.12,166.32
+Pasta,Grains,1.0,3.03,216,654.48,438.48
+Eggs,Dairy,3.45,5.12,100,512.0,167.0
+Bacon,Meat,6.56,8.63,273,2355.99,565.11
+Corned Beef Hash,Canned Goods,1.6,4.05,141,571.05,345.45
+Pasta,Grains,1.43,2.37,149,353.13,140.06
+Apples,Produce,1.58,1.8,221,397.8,48.62
+Corned Beef Hash,Canned Goods,0.92,3.84,193,741.12,563.56
+Corned Beef Hash,Canned Goods,1.21,3.33,264,879.12,559.68
+Corned Beef Hash,Canned Goods,3.61,4.02,201,808.02,82.41
+Apples,Produce,3.36,4.15,345,1431.75,272.55
+Tomato Soup,Canned Goods,3.96,5.31,488,2591.28,658.8
+Eggs,Dairy,2.98,4.93,192,946.56,374.4
+Milk,Dairy,3.33,4.58,176,806.08,220.0
+Eggs,Dairy,2.32,4.03,352,1418.56,601.92
+Corned Beef Hash,Canned Goods,4.18,5.49,263,1443.87,344.53
+Milk,Dairy,1.6,3.65,443,1616.95,908.15
+Tomato Soup,Canned Goods,0.92,3.66,295,1079.7,808.3
+Bananas,Produce,2.96,3.59,173,621.07,108.99
+Bananas,Produce,2.7,4.31,117,504.27,188.37
+Butter,Dairy,2.24,4.27,96,409.92,194.88
+Milk,Dairy,2.7,3.07,410,1258.7,151.7
+Rice,Grains,2.64,3.24,62,200.88,37.2
+Rice,Grains,1.66,2.22,410,910.2,229.6
+Butter,Dairy,3.07,4.46,50,223.0,69.5
+Apples,Produce,0.71,4.11,220,904.2,748.0
+Tomato Soup,Canned Goods,0.92,3.13,188,588.44,415.48
+Bananas,Produce,3.34,4.25,456,1938.0,414.96
+Tomato Soup,Canned Goods,4.3,4.37,76,332.12,5.32
+Bacon,Meat,5.99,8.49,70,594.3,175.0
+Butter,Dairy,2.42,4.27,410,1750.7,758.5
+Bacon,Meat,7.14,10.8,120,1296.0,439.2
+Butter,Dairy,2.1,2.4,294,705.6,88.2
+Bananas,Produce,3.32,3.56,409,1456.04,98.16
+Eggs,Dairy,2.3,5.14,307,1577.98,871.88
+Apples,Produce,1.77,2.08,240,499.2,74.4
+Rice,Grains,1.75,3.49,290,1012.1,504.6
+Bananas,Produce,2.1,3.85,199,766.15,348.25
+Rice,Grains,2.05,3.4,404,1373.6,545.4
+Bacon,Meat,4.72,11.63,94,1093.22,649.54
+Bacon,Meat,6.04,6.34,89,564.26,26.7
+Bacon,Meat,4.57,5.84,125,730.0,158.75
+Rice,Grains,0.88,1.61,371,597.31,270.83
+Milk,Dairy,2.23,5.39,327,1762.53,1033.32
+Corned Beef Hash,Canned Goods,2.55,3.1,427,1323.7,234.85
+Apples,Produce,0.56,1.5,61,91.5,57.34
+Eggs,Dairy,3.59,3.82,221,844.22,50.83
+Pasta,Grains,1.95,2.97,452,1342.44,461.04
+Butter,Dairy,2.72,4.33,321,1389.93,516.81
+Tomato Soup,Canned Goods,2.45,2.52,117,294.84,8.19
+Chicken Breast,Meat,4.62,6.95,297,2064.15,692.01
+Butter,Dairy,3.93,4.69,74,347.06,56.24
+Corned Beef Hash,Canned Goods,2.11,3.28,135,442.8,157.95
+Cereal,Grains,2.81,3.14,196,615.44,64.68
+Corned Beef Hash,Canned Goods,4.4,5.2,404,2100.8,323.2
+Apples,Produce,2.88,4.21,109,458.89,144.97
+Pasta,Grains,2.83,3.31,284,940.04,136.32
+Butter,Dairy,1.89,5.4,329,1776.6,1154.79
+Tomato Soup,Canned Goods,2.03,4.53,292,1322.76,730.0
+Chicken Breast,Meat,9.8,10.66,343,3656.38,294.98
+Apples,Produce,0.94,2.89,276,797.64,538.2
+Butter,Dairy,3.22,4.56,70,319.2,93.8
+Corned Beef Hash,Canned Goods,3.31,5.2,62,322.4,117.18
+Rice,Grains,1.39,1.98,361,714.78,212.99
+Apples,Produce,1.09,2.75,450,1237.5,747.0
+Chicken Breast,Meat,4.77,5.63,484,2724.92,416.24
+Rice,Grains,2.19,3.87,312,1207.44,524.16
+Pasta,Grains,0.99,1.95,359,700.05,344.64
+Tomato Soup,Canned Goods,4.29,5.54,234,1296.36,292.5
+Pasta,Grains,0.87,3.56,239,850.84,642.91
+Pasta,Grains,1.43,1.85,229,423.65,96.18
+Chicken Breast,Meat,9.85,11.56,94,1086.64,160.74
+Eggs,Dairy,3.32,3.55,262,930.1,60.26
+Rice,Grains,1.22,3.42,267,913.14,587.4
+Bananas,Produce,3.19,4.46,350,1561.0,444.5
+Tomato Soup,Canned Goods,4.45,4.78,352,1682.56,116.16
+Bacon,Meat,3.54,9.79,189,1850.31,1181.25
+Pasta,Grains,0.94,2.39,340,812.6,493.0
+Corned Beef Hash,Canned Goods,1.54,5.16,198,1021.68,716.76
+Tomato Soup,Canned Goods,2.62,5.11,204,1042.44,507.96
+Cereal,Grains,1.26,2.68,287,769.16,407.54
+Eggs,Dairy,1.57,2.01,184,369.84,80.96
+Chicken Breast,Meat,9.71,11.26,291,3276.66,451.05
+Bacon,Meat,7.75,11.7,263,3077.1,1038.85
+Corned Beef Hash,Canned Goods,2.62,4.44,175,777.0,318.5
+Milk,Dairy,1.8,2.97,84,249.48,98.28
+Cereal,Grains,2.36,2.74,339,928.86,128.82
+Pasta,Grains,2.67,2.88,293,843.84,61.53
+Bananas,Produce,2.95,3.93,425,1670.25,416.5
+Corned Beef Hash,Canned Goods,2.95,5.39,286,1541.54,697.84
+Corned Beef Hash,Canned Goods,2.12,3.1,234,725.4,229.32
+Butter,Dairy,1.62,3.02,377,1138.54,527.8
+Bacon,Meat,6.84,10.75,143,1537.25,559.13
+Bacon,Meat,7.39,11.54,215,2481.1,892.25
+Apples,Produce,2.9,3.35,407,1363.45,183.15
+Bacon,Meat,6.97,7.64,123,939.72,82.41
+Milk,Dairy,1.84,2.98,448,1335.04,510.72
+Rice,Grains,1.53,3.76,133,500.08,296.59
+Bacon,Meat,4.92,8.78,475,4170.5,1833.5
+Eggs,Dairy,3.49,3.96,403,1595.88,189.41
+Tomato Soup,Canned Goods,3.93,4.56,409,1865.04,257.67
+Bacon,Meat,6.21,11.87,109,1293.83,616.94
+Corned Beef Hash,Canned Goods,4.22,4.46,209,932.14,50.16
+Corned Beef Hash,Canned Goods,3.82,5.45,355,1934.75,578.65
+Tomato Soup,Canned Goods,3.63,4.72,413,1949.36,450.17
+Bacon,Meat,4.95,11.43,122,1394.46,790.56
+Bananas,Produce,1.18,1.26,116,146.16,9.28
+Bacon,Meat,6.26,10.72,107,1147.04,477.22
+Bacon,Meat,3.62,8.63,270,2330.1,1352.7
+Milk,Dairy,1.99,2.11,387,816.57,46.44
+Tomato Soup,Canned Goods,2.99,3.35,179,599.65,64.44
+Milk,Dairy,1.67,4.34,436,1892.24,1164.12
+Bacon,Meat,8.59,11.9,155,1844.5,513.05
+Cereal,Grains,2.75,3.24,229,741.96,112.21
+Chicken Breast,Meat,9.67,11.41,132,1506.12,229.68
+Bananas,Produce,2.34,2.67,84,224.28,27.72
+Bacon,Meat,8.83,10.72,320,3430.4,604.8
+Eggs,Dairy,3.29,5.37,137,735.69,284.96
+Tomato Soup,Canned Goods,0.82,4.63,159,736.17,605.79
+Tomato Soup,Canned Goods,3.95,5.79,407,2356.53,748.88
+Corned Beef Hash,Canned Goods,3.89,5.91,267,1577.97,539.34
+Eggs,Dairy,2.79,3.43,439,1505.77,280.96
+Butter,Dairy,1.81,2.39,119,284.41,69.02
+Rice,Grains,2.41,3.11,335,1041.85,234.5
+Bananas,Produce,0.62,2.01,109,219.09,151.51
+Pasta,Grains,1.21,2.8,209,585.2,332.31
+Apples,Produce,3.43,4.44,333,1478.52,336.33
+Pasta,Grains,0.97,1.21,480,580.8,115.2
+Rice,Grains,2.85,4.0,56,224.0,64.4
+Rice,Grains,2.18,2.19,317,694.23,3.17
+Apples,Produce,2.53,2.99,252,753.48,115.92
+Bacon,Meat,8.32,11.69,136,1589.84,458.32
+Bacon,Meat,5.86,6.49,152,986.48,95.76
+Cereal,Grains,2.61,3.51,169,593.19,152.1
+Bananas,Produce,2.0,3.63,442,1604.46,720.46
+Cereal,Grains,1.98,3.27,460,1504.2,593.4
+Apples,Produce,3.33,3.64,391,1423.24,121.21
+Bacon,Meat,4.29,8.67,168,1456.56,735.84
+Apples,Produce,3.33,4.4,427,1878.8,456.89
+Pasta,Grains,2.01,2.87,205,588.35,176.3
+Bacon,Meat,8.44,9.96,316,3147.36,480.32
+Rice,Grains,2.48,2.49,388,966.12,3.88
+Tomato Soup,Canned Goods,1.77,2.72,490,1332.8,465.5
+Tomato Soup,Canned Goods,2.82,5.76,66,380.16,194.04
+Pasta,Grains,2.7,3.58,280,1002.4,246.4
+Chicken Breast,Meat,9.25,10.37,270,2799.9,302.4
+Rice,Grains,2.41,2.71,301,815.71,90.3
+Apples,Produce,2.16,2.8,290,812.0,185.6
+Rice,Grains,1.91,2.17,78,169.26,20.28
+Rice,Grains,1.98,2.13,396,843.48,59.4
+Butter,Dairy,3.42,4.93,81,399.33,122.31
+Butter,Dairy,3.52,4.04,441,1781.64,229.32
+Apples,Produce,1.52,4.47,226,1010.22,666.7
+Pasta,Grains,1.38,2.98,176,524.48,281.6
+Eggs,Dairy,3.12,4.07,402,1636.14,381.9
+Bacon,Meat,9.15,11.48,136,1561.28,316.88
+Cereal,Grains,1.79,2.26,60,135.6,28.2
+Bananas,Produce,1.91,2.2,212,466.4,61.48
+Pasta,Grains,1.31,3.03,300,909.0,516.0
+Butter,Dairy,2.74,4.84,391,1892.44,821.1
+Butter,Dairy,1.92,3.05,273,832.65,308.49
+Eggs,Dairy,2.74,4.97,453,2251.41,1010.19
+Bacon,Meat,8.96,9.02,197,1776.94,11.82
+Chicken Breast,Meat,3.81,12.47,255,3179.85,2208.3
+Eggs,Dairy,3.06,5.35,417,2230.95,954.93
+Cereal,Grains,0.74,2.01,84,168.84,106.68
+Cereal,Grains,2.5,3.47,157,544.79,152.29
+Tomato Soup,Canned Goods,3.78,4.36,326,1421.36,189.08
+Tomato Soup,Canned Goods,1.47,3.58,410,1467.8,865.1
+Corned Beef Hash,Canned Goods,2.93,4.71,471,2218.41,838.38
+Rice,Grains,1.17,2.91,464,1350.24,807.36
+Cereal,Grains,2.63,3.72,339,1261.08,369.51
+Bananas,Produce,2.38,2.73,236,644.28,82.6
+Rice,Grains,0.87,1.45,400,580.0,232.0
+Chicken Breast,Meat,8.99,11.23,490,5502.7,1097.6
+Bacon,Meat,7.62,11.34,186,2109.24,691.92
+Chicken Breast,Meat,7.7,10.98,357,3919.86,1170.96
+Chicken Breast,Meat,6.52,9.2,273,2511.6,731.64
+Pasta,Grains,2.12,3.37,131,441.47,163.75
+Chicken Breast,Meat,7.78,10.42,486,5064.12,1283.04
+Milk,Dairy,1.64,5.14,210,1079.4,735.0
+Cereal,Grains,1.24,3.69,258,952.02,632.1
+Apples,Produce,2.47,3.48,479,1666.92,483.79
+Corned Beef Hash,Canned Goods,1.67,3.85,306,1178.1,667.08
+Bacon,Meat,6.89,11.22,446,5004.12,1931.18
+Tomato Soup,Canned Goods,1.73,5.42,171,926.82,630.99
+Cereal,Grains,0.81,3.42,218,745.56,568.98
+Cereal,Grains,2.34,3.42,430,1470.6,464.4
+Eggs,Dairy,3.84,5.39,104,560.56,161.2
+Rice,Grains,1.52,3.59,78,280.02,161.46
+Rice,Grains,1.83,3.1,107,331.7,135.89
+Butter,Dairy,2.86,3.66,176,644.16,140.8
+Chicken Breast,Meat,9.22,12.03,235,2827.05,660.35
+Rice,Grains,2.29,3.46,60,207.6,70.2
+Apples,Produce,3.4,3.54,480,1699.2,67.2
+Milk,Dairy,3.23,4.76,172,818.72,263.16
+Chicken Breast,Meat,7.09,7.32,408,2986.56,93.84
+Butter,Dairy,3.76,4.4,323,1421.2,206.72
+Eggs,Dairy,3.64,5.25,251,1317.75,404.11
+Chicken Breast,Meat,5.46,12.02,437,5252.74,2866.72
+Eggs,Dairy,2.24,5.01,132,661.32,365.64
+Rice,Grains,2.08,3.64,442,1608.88,689.52
+Apples,Produce,1.72,3.68,493,1814.24,966.28
+Rice,Grains,1.68,2.24,480,1075.2,268.8
+Butter,Dairy,3.29,5.07,469,2377.83,834.82
+Bacon,Meat,8.86,10.24,309,3164.16,426.42
+Bacon,Meat,5.79,9.52,466,4436.32,1738.18
+Tomato Soup,Canned Goods,3.53,4.81,64,307.84,81.92
+Apples,Produce,2.42,3.13,455,1424.15,323.05
+Apples,Produce,0.91,2.28,371,845.88,508.27
+Chicken Breast,Meat,5.54,5.62,130,730.6,10.4
+Eggs,Dairy,2.79,5.39,475,2560.25,1235.0
+Apples,Produce,2.79,3.93,401,1575.93,457.14
+Pasta,Grains,2.48,3.62,294,1064.28,335.16
+Corned Beef Hash,Canned Goods,1.76,4.44,473,2100.12,1267.64
+Butter,Dairy,3.5,4.92,262,1289.04,372.04
+Cereal,Grains,1.06,3.84,335,1286.4,931.3
+Apples,Produce,2.34,4.4,95,418.0,195.7
+Eggs,Dairy,2.15,4.98,75,373.5,212.25
+Pasta,Grains,2.05,2.8,126,352.8,94.5
+Bacon,Meat,9.73,10.39,340,3532.6,224.4
+Pasta,Grains,2.43,3.78,473,1787.94,638.55
+Apples,Produce,1.98,3.99,154,614.46,309.54
+Chicken Breast,Meat,5.37,8.71,116,1010.36,387.44
+Pasta,Grains,2.64,2.8,471,1318.8,75.36
+Chicken Breast,Meat,8.22,9.63,142,1367.46,200.22
+Eggs,Dairy,2.42,4.39,284,1246.76,559.48
+Bacon,Meat,3.57,6.0,215,1290.0,522.45
+Bananas,Produce,1.69,3.42,246,841.32,425.58
+Bananas,Produce,2.29,4.16,335,1393.6,626.45
+Cereal,Grains,2.85,3.9,356,1388.4,373.8
+Bananas,Produce,2.74,4.42,179,791.18,300.72
+Apples,Produce,1.61,4.38,336,1471.68,930.72
+Milk,Dairy,2.95,3.72,307,1142.04,236.39
+Butter,Dairy,3.69,4.49,212,951.88,169.6
+Pasta,Grains,0.85,1.35,72,97.2,36.0
+Corned Beef Hash,Canned Goods,2.65,5.87,193,1132.91,621.46
+Bananas,Produce,1.58,2.39,498,1190.22,403.38
+Chicken Breast,Meat,7.48,10.71,185,1981.35,597.55
+Tomato Soup,Canned Goods,1.96,5.46,211,1152.06,738.5
+Bananas,Produce,3.48,3.63,127,461.01,19.05
+Tomato Soup,Canned Goods,3.96,4.29,458,1964.82,151.14
+Rice,Grains,0.63,1.45,167,242.15,136.94
+Corned Beef Hash,Canned Goods,0.93,2.3,411,945.3,563.07
+Rice,Grains,1.59,3.99,303,1208.97,727.2
+Milk,Dairy,2.6,5.46,337,1840.02,963.82
+Rice,Grains,1.64,3.6,418,1504.8,819.28
+Bacon,Meat,5.77,6.53,195,1273.35,148.2
+Corned Beef Hash,Canned Goods,3.89,4.75,471,2237.25,405.06
+Chicken Breast,Meat,7.16,9.97,158,1575.26,443.98
+Cereal,Grains,3.0,3.3,442,1458.6,132.6
+Apples,Produce,0.78,2.02,195,393.9,241.8
+Apples,Produce,3.44,4.32,241,1041.12,212.08
+Butter,Dairy,1.88,2.28,475,1083.0,190.0
+Bananas,Produce,2.48,3.0,187,561.0,97.24
+Milk,Dairy,2.32,5.33,368,1961.44,1107.68
+Butter,Dairy,3.87,5.5,458,2519.0,746.54
+Cereal,Grains,0.82,3.59,460,1651.4,1274.2
+Apples,Produce,1.35,3.75,430,1612.5,1032.0
+Bacon,Meat,7.06,9.52,97,923.44,238.62
+Pasta,Grains,1.14,1.72,444,763.68,257.52
+Pasta,Grains,0.72,3.56,133,473.48,377.72
+Pasta,Grains,2.45,3.86,435,1679.1,613.35
+Corned Beef Hash,Canned Goods,1.25,3.45,271,934.95,596.2
+Bananas,Produce,2.92,3.03,400,1212.0,44.0
+Butter,Dairy,3.16,4.91,312,1531.92,546.0
+Eggs,Dairy,2.72,5.1,293,1494.3,697.34
+Chicken Breast,Meat,7.16,8.17,437,3570.29,441.37
+Pasta,Grains,2.53,2.84,272,772.48,84.32
+Apples,Produce,1.78,4.4,224,985.6,586.88
+Apples,Produce,1.17,3.34,129,430.86,279.93
+Rice,Grains,1.82,2.94,92,270.48,103.04
+Chicken Breast,Meat,6.54,8.58,460,3946.8,938.4
+Corned Beef Hash,Canned Goods,4.44,5.21,203,1057.63,156.31
+Tomato Soup,Canned Goods,2.38,3.84,332,1274.88,484.72
+Bacon,Meat,9.46,9.96,311,3097.56,155.5
+Cereal,Grains,2.53,2.98,349,1040.02,157.05
+Corned Beef Hash,Canned Goods,3.71,5.21,73,380.33,109.5
+Bacon,Meat,6.21,10.28,210,2158.8,854.7
+Cereal,Grains,2.31,3.27,280,915.6,268.8
+Cereal,Grains,2.52,3.43,496,1701.28,451.36
+Eggs,Dairy,1.96,4.61,359,1654.99,951.35
+Chicken Breast,Meat,9.17,9.92,323,3204.16,242.25
+Rice,Grains,2.23,3.61,431,1555.91,594.78
+Cereal,Grains,2.31,3.92,466,1826.72,750.26
+Butter,Dairy,3.23,5.37,395,2121.15,845.3
+Pasta,Grains,2.51,3.91,119,465.29,166.6
+Milk,Dairy,2.02,4.27,382,1631.14,859.5
+Eggs,Dairy,2.59,4.19,454,1902.26,726.4
+Tomato Soup,Canned Goods,1.51,2.5,287,717.5,284.13
+Corned Beef Hash,Canned Goods,2.55,5.51,135,743.85,399.6
+Bananas,Produce,2.61,4.37,291,1271.67,512.16
+Milk,Dairy,3.65,4.05,153,619.65,61.2
+Chicken Breast,Meat,7.2,11.25,76,855.0,307.8
+Butter,Dairy,1.52,4.21,415,1747.15,1116.35
+Pasta,Grains,2.95,3.55,427,1515.85,256.2
+Cereal,Grains,1.99,2.66,198,526.68,132.66
+Milk,Dairy,2.72,3.7,352,1302.4,344.96
+Bananas,Produce,2.33,3.31,468,1549.08,458.64
+Rice,Grains,1.08,1.18,59,69.62,5.9
+Pasta,Grains,1.94,2.66,187,497.42,134.64
+Apples,Produce,1.75,2.55,303,772.65,242.4
+Cereal,Grains,2.85,3.18,407,1294.26,134.31
+Rice,Grains,1.36,1.7,162,275.4,55.08
+Cereal,Grains,2.77,3.56,358,1274.48,282.82
+Bananas,Produce,2.47,3.48,200,696.0,202.0
+Pasta,Grains,2.9,3.5,394,1379.0,236.4
+Apples,Produce,2.7,3.75,459,1721.25,481.95
+Corned Beef Hash,Canned Goods,3.1,3.41,433,1476.53,134.23
+Corned Beef Hash,Canned Goods,1.54,4.03,101,407.03,251.49
+Pasta,Grains,2.86,3.64,170,618.8,132.6
+Butter,Dairy,3.19,5.13,490,2513.7,950.6
+Milk,Dairy,3.52,4.16,108,449.28,69.12
+Bacon,Meat,7.15,8.65,224,1937.6,336.0
+Butter,Dairy,3.42,4.7,335,1574.5,428.8
+Chicken Breast,Meat,9.33,11.4,497,5665.8,1028.79
+Tomato Soup,Canned Goods,3.04,5.63,75,422.25,194.25
+Rice,Grains,2.5,3.89,436,1696.04,606.04
+Bacon,Meat,9.84,10.86,362,3931.32,369.24
+Bacon,Meat,8.85,10.46,103,1077.38,165.83
+Bananas,Produce,1.82,2.67,425,1134.75,361.25
+Bacon,Meat,4.5,7.73,469,3625.37,1514.87
+Corned Beef Hash,Canned Goods,1.26,2.01,262,526.62,196.5
+Milk,Dairy,2.11,4.83,224,1081.92,609.28
+Chicken Breast,Meat,6.78,10.36,240,2486.4,859.2
+Pasta,Grains,1.4,2.99,127,379.73,201.93
+Tomato Soup,Canned Goods,2.36,3.14,460,1444.4,358.8
+Pasta,Grains,2.75,3.86,314,1212.04,348.54
+Apples,Produce,1.59,3.65,124,452.6,255.44
+Bananas,Produce,2.92,4.29,93,398.97,127.41
+Butter,Dairy,2.29,5.44,134,728.96,422.1
+Pasta,Grains,0.65,3.28,388,1272.64,1020.44
+Apples,Produce,0.95,2.93,373,1092.89,738.54
+Bananas,Produce,2.9,4.04,201,812.04,229.14
+Pasta,Grains,1.51,3.04,333,1012.32,509.49
+Chicken Breast,Meat,8.19,8.96,226,2024.96,174.02
+Corned Beef Hash,Canned Goods,3.39,5.44,155,843.2,317.75
+Cereal,Grains,2.47,2.96,407,1204.72,199.43
+Butter,Dairy,3.72,4.74,257,1218.18,262.14
+Eggs,Dairy,3.7,4.54,325,1475.5,273.0
+Bananas,Produce,3.14,3.6,326,1173.6,149.96
+Corned Beef Hash,Canned Goods,0.89,5.45,326,1776.7,1486.56
+Cereal,Grains,1.15,3.5,205,717.5,481.75
+Bananas,Produce,1.77,2.67,424,1132.08,381.6
+Milk,Dairy,3.6,4.28,309,1322.52,210.12
+Bacon,Meat,6.42,9.29,52,483.08,149.24
+Rice,Grains,1.35,1.71,431,737.01,155.16
+Cereal,Grains,1.91,3.68,371,1365.28,656.67
+Apples,Produce,2.1,3.0,229,687.0,206.1
+Chicken Breast,Meat,5.35,10.89,416,4530.24,2304.64
+Cereal,Grains,2.18,3.14,316,992.24,303.36
+Bananas,Produce,1.24,2.01,348,699.48,267.96
+Eggs,Dairy,3.56,4.37,100,437.0,81.0
+Pasta,Grains,1.97,2.56,252,645.12,148.68
+Chicken Breast,Meat,7.3,9.77,275,2686.75,679.25
+Bananas,Produce,3.29,3.85,263,1012.55,147.28
+Corned Beef Hash,Canned Goods,2.67,3.42,284,971.28,213.0
+Corned Beef Hash,Canned Goods,4.38,4.73,320,1513.6,112.0
+Tomato Soup,Canned Goods,2.17,5.76,358,2062.08,1285.22
+Pasta,Grains,0.78,2.11,198,417.78,263.34
+Milk,Dairy,2.81,5.47,206,1126.82,547.96
+Chicken Breast,Meat,5.41,6.07,123,746.61,81.18
+Cereal,Grains,1.55,3.81,206,784.86,465.56
+Chicken Breast,Meat,4.9,11.14,300,3342.0,1872.0
+Milk,Dairy,1.81,3.22,495,1593.9,697.95
+Milk,Dairy,2.54,4.01,339,1359.39,498.33
+Rice,Grains,2.75,3.34,293,978.62,172.87
+Bananas,Produce,3.0,4.01,120,481.2,121.2
+Butter,Dairy,1.72,4.19,369,1546.11,911.43
+Pasta,Grains,1.47,3.7,223,825.1,497.29
+Tomato Soup,Canned Goods,0.97,4.35,276,1200.6,932.88
+Bananas,Produce,1.33,3.42,134,458.28,280.06
+Cereal,Grains,2.08,3.31,208,688.48,255.84
+Tomato Soup,Canned Goods,3.19,4.22,93,392.46,95.79
+Eggs,Dairy,3.89,3.9,437,1704.3,4.37
+Milk,Dairy,3.89,5.14,434,2230.76,542.5
+Bacon,Meat,7.78,8.99,59,530.41,71.39
+Chicken Breast,Meat,8.61,11.29,411,4640.19,1101.48
+Cereal,Grains,1.61,3.42,360,1231.2,651.6
+Butter,Dairy,2.5,5.27,491,2587.57,1360.07
+Butter,Dairy,2.59,3.45,490,1690.5,421.4
+Tomato Soup,Canned Goods,1.97,2.29,108,247.32,34.56
+Bacon,Meat,7.02,7.14,143,1021.02,17.16
+Chicken Breast,Meat,8.49,10.09,258,2603.22,412.8
+Milk,Dairy,3.04,3.14,63,197.82,6.3
+Bananas,Produce,0.68,2.24,213,477.12,332.28
+Corned Beef Hash,Canned Goods,2.33,2.62,242,634.04,70.18
+Bacon,Meat,3.84,6.8,355,2414.0,1050.8
+Cereal,Grains,1.09,2.53,308,779.24,443.52
+Pasta,Grains,2.87,3.66,212,775.92,167.48
+Chicken Breast,Meat,7.1,9.4,101,949.4,232.3
+Eggs,Dairy,3.41,4.28,114,487.92,99.18
+Chicken Breast,Meat,7.19,8.34,483,4028.22,555.45
+Apples,Produce,2.0,3.7,122,451.4,207.4
+Butter,Dairy,2.85,3.88,175,679.0,180.25
+Pasta,Grains,2.9,3.49,71,247.79,41.89
+Chicken Breast,Meat,7.74,12.0,80,960.0,340.8
+Rice,Grains,1.18,1.75,398,696.5,226.86
+Pasta,Grains,3.0,3.53,158,557.74,83.74
+Cereal,Grains,2.6,3.22,132,425.04,81.84
+Cereal,Grains,0.67,1.27,407,516.89,244.2
+Bacon,Meat,8.9,10.44,193,2014.92,297.22
+Pasta,Grains,1.03,2.51,460,1154.6,680.8
+Butter,Dairy,3.71,5.31,375,1991.25,600.0
+Chicken Breast,Meat,9.87,10.31,189,1948.59,83.16
+Eggs,Dairy,3.16,3.61,157,566.77,70.65
+Cereal,Grains,1.32,3.74,118,441.32,285.56
+Apples,Produce,3.27,4.14,52,215.28,45.24
+Apples,Produce,1.02,2.86,406,1161.16,747.04
+Bananas,Produce,1.97,2.25,91,204.75,25.48
+Apples,Produce,2.45,2.79,476,1328.04,161.84
+Apples,Produce,1.84,2.19,466,1020.54,163.1
+Cereal,Grains,1.39,1.53,443,677.79,62.02
+Bananas,Produce,3.45,4.26,239,1018.14,193.59
+Rice,Grains,0.52,3.23,438,1414.74,1186.98
+Chicken Breast,Meat,7.92,10.32,148,1527.36,355.2
+Bacon,Meat,8.81,9.69,463,4486.47,407.44
+Bananas,Produce,1.16,4.43,235,1041.05,768.45
+Milk,Dairy,2.2,5.17,411,2124.87,1220.67
+Cereal,Grains,1.02,1.59,470,747.3,267.9
+Apples,Produce,1.69,4.02,341,1370.82,794.53
+Tomato Soup,Canned Goods,2.63,3.76,387,1455.12,437.31
+Bananas,Produce,2.2,3.32,339,1125.48,379.68
+Corned Beef Hash,Canned Goods,1.04,1.64,83,136.12,49.8
+Corned Beef Hash,Canned Goods,1.76,3.85,166,639.1,346.94
+Tomato Soup,Canned Goods,3.5,4.39,484,2124.76,430.76
+Bananas,Produce,2.53,3.07,398,1221.86,214.92
+Tomato Soup,Canned Goods,4.07,4.2,268,1125.6,34.84
+Apples,Produce,0.66,4.27,271,1157.17,978.31
+Pasta,Grains,1.19,3.04,288,875.52,532.8
+Rice,Grains,1.4,3.28,419,1374.32,787.72
+Eggs,Dairy,1.62,5.21,322,1677.62,1155.98
+Rice,Grains,1.29,2.18,221,481.78,196.69
+Bacon,Meat,9.22,11.06,427,4722.62,785.68
+Eggs,Dairy,3.95,5.21,88,458.48,110.88
+Eggs,Dairy,1.91,3.09,370,1143.3,436.6
+Apples,Produce,0.79,2.58,463,1194.54,828.77
+Milk,Dairy,2.98,4.19,221,925.99,267.41
+Chicken Breast,Meat,5.11,8.55,224,1915.2,770.56
+Milk,Dairy,3.55,3.82,171,653.22,46.17
+Bacon,Meat,8.54,9.65,441,4255.65,489.51
+Bacon,Meat,7.56,9.34,93,868.62,165.54
+Milk,Dairy,3.79,4.43,484,2144.12,309.76
+Corned Beef Hash,Canned Goods,1.03,5.01,78,390.78,310.44
+Chicken Breast,Meat,7.47,8.24,102,840.48,78.54
+Apples,Produce,0.67,0.99,485,480.15,155.2
+Pasta,Grains,1.5,2.85,260,741.0,351.0
+Eggs,Dairy,3.66,4.76,369,1756.44,405.9
+Milk,Dairy,2.63,3.62,269,973.78,266.31
+Cereal,Grains,2.05,3.35,395,1323.25,513.5
+Rice,Grains,1.79,2.76,105,289.8,101.85
+Bacon,Meat,3.58,10.35,353,3653.55,2389.81
+Eggs,Dairy,3.76,4.54,310,1407.4,241.8
+Rice,Grains,0.96,1.41,72,101.52,32.4
+Milk,Dairy,1.82,4.05,312,1263.6,695.76
+Apples,Produce,2.76,3.67,327,1200.09,297.57
+Corned Beef Hash,Canned Goods,2.54,4.02,199,799.98,294.52
+Butter,Dairy,3.93,4.37,386,1686.82,169.84
+Milk,Dairy,2.09,4.87,336,1636.32,934.08
+Milk,Dairy,2.56,2.68,152,407.36,18.24
+Apples,Produce,3.23,3.71,224,831.04,107.52
+Eggs,Dairy,3.17,4.43,289,1280.27,364.14
+Cereal,Grains,2.23,3.56,339,1206.84,450.87
+Butter,Dairy,3.04,3.47,133,461.51,57.19
+Bacon,Meat,6.45,10.92,71,775.32,317.37
+Rice,Grains,1.05,3.08,164,505.12,332.92
+Rice,Grains,2.06,3.31,426,1410.06,532.5
+Butter,Dairy,3.52,5.46,254,1386.84,492.76
+Butter,Dairy,1.52,3.25,334,1085.5,577.82
+Bacon,Meat,4.43,8.3,373,3095.9,1443.51
+Cereal,Grains,2.78,3.54,65,230.1,49.4
+Eggs,Dairy,1.95,2.08,481,1000.48,62.53
+Chicken Breast,Meat,9.42,9.91,396,3924.36,194.04
+Bacon,Meat,5.7,6.58,283,1862.14,249.04
+Eggs,Dairy,2.42,3.3,137,452.1,120.56
+Tomato Soup,Canned Goods,4.42,5.99,272,1629.28,427.04
+Bananas,Produce,0.7,1.33,116,154.28,73.08
+Eggs,Dairy,1.98,3.32,241,800.12,322.94
+Butter,Dairy,3.0,5.42,175,948.5,423.5
+Milk,Dairy,3.41,4.06,487,1977.22,316.55
+Tomato Soup,Canned Goods,1.89,4.98,176,876.48,543.84
+Corned Beef Hash,Canned Goods,3.95,5.84,300,1752.0,567.0
+Eggs,Dairy,3.32,4.75,454,2156.5,649.22
+Apples,Produce,2.34,3.58,248,887.84,307.52
+Apples,Produce,2.75,3.37,315,1061.55,195.3
+Bananas,Produce,3.37,4.21,347,1460.87,291.48
+Cereal,Grains,2.12,2.36,153,361.08,36.72
+Eggs,Dairy,2.49,3.07,243,746.01,140.94
+Cereal,Grains,0.89,3.53,180,635.4,475.2
+Tomato Soup,Canned Goods,1.11,4.76,201,956.76,733.65
+Rice,Grains,1.8,2.4,71,170.4,42.6
+Cereal,Grains,1.34,2.35,271,636.85,273.71
+Pasta,Grains,1.42,2.49,189,470.61,202.23
+Pasta,Grains,0.56,2.33,185,431.05,327.45
+Apples,Produce,0.73,4.14,200,828.0,682.0
+Tomato Soup,Canned Goods,2.7,4.22,452,1907.44,687.04
+Chicken Breast,Meat,9.52,10.06,86,865.16,46.44
+Chicken Breast,Meat,5.47,11.12,399,4436.88,2254.35
+Chicken Breast,Meat,4.74,9.53,120,1143.6,574.8
+Bananas,Produce,2.72,4.18,54,225.72,78.84
+Chicken Breast,Meat,5.33,7.6,256,1945.6,581.12
+Pasta,Grains,2.55,3.27,56,183.12,40.32
+Rice,Grains,2.14,3.97,126,500.22,230.58
+Pasta,Grains,1.07,3.17,157,497.69,329.7
+Rice,Grains,1.08,2.76,332,916.32,557.76
+Rice,Grains,2.31,2.38,455,1082.9,31.85
+Bacon,Meat,5.53,6.41,444,2846.04,390.72
+Bananas,Produce,1.75,2.42,486,1176.12,325.62
